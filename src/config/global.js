@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Limpieza de jugo de caña',
+    descripcionCurso:
+      'La producción panelera en Colombia supera el millón y medio de toneladas anuales, lo que lo convierte en uno de los países de mayor producción mundial. La proyección para los próximos años estima sobrepasar la cantidad actual, a través de la optimización de procesos y las tendencias de hábitos de consumo saludables.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -32,14 +33,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Materias primas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Jugos de la caña y su clasificación',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Purificación de jugos',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Operaciones básicas para la obtención de la panela',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Elementos de protección',
+            hash: 't_1_4',
           },
         ],
       },
@@ -48,15 +67,67 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Técnicas de limpieza del jugo de caña',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Técnicas de limpieza',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Variables fisicoquímicas',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Cachaza y su disposición',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Requerimientos técnicos y normativos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Buenas Prácticas de Manufactura (BPM)',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Concepto sanitario',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Normativa ambiental',
+            hash: 't_3_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.4',
+            titulo: 'Ajuste de técnicas',
+            hash: 't_3_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.5',
+            titulo: 'Procedimientos y reportes',
+            hash: 't_3_5',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -101,32 +172,166 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Elaboración de la panela con jugo de la caña',
+      referencia:
+        'La Casa de la Cultura Talea de Castro Talea. (2014). <em>Elaboración de la panela con jugo de caña. Youtube</em>.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=SMn6lddVaZI',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Jugo de caña natural',
+      referencia:
+        '<em>Lara Lorena (2017) Jugo de caña natural-elaboración. Youtube.</em>',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=XCZ8J1tmoh0',
+    },
+    {
+      tema:
+        'Especies vegetales utilizadas en la clarificación de los jugos de caña para la elaboración de panela',
+      referencia:
+        'AgrosaviaTV (2021) <em>Especies vegetales utilizadas en la clarificación de los jugos de caña para la elaboración de panela</em>. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=N0SyD_4mUg8',
+    },
+    {
+      tema: 'Buenas Prácticas de Manufactura Trapiche Panelero',
+      referencia:
+        'Fedepanela. (2019) <em>Buenas Prácticas de Manufactura Trapiche Panelero</em>. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=iuW5c9LgQys',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Batido',
+      significado:
+        'se refiere a la acción de agitación intensiva e intermitente de la panela líquida, con el propósito de cambiarle la estructura y textura, además de hacerle perder su capacidad de adherencia.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Buenas prácticas de manufactura',
+      significado:
+        'son las normas establecidas de manera oficial que regulan a las plantas procesadoras de alimentos, en cuanto a los procedimientos de fabricación, limpieza y desinfección, la higiene personal, la manipulación, los controles, registros, almacenamiento, que garantizan calidad y seguridad alimentaria.',
+    },
+    {
+      termino: 'Cachaza',
+      significado:
+        'es un residuo de la industria azucarera que se forma a partir de los lodos formados por las impurezas, ceras, hidrocarburos y azucares que aporta la caña. <br>El abono orgánico es un compuesto producido con materiales de origen animal o vegetal, el cual tiene como finalidad suministrar nutrientes a las plantas. Es así, que la cachaza, residuo de la agroindustria azucarera, por su composición mayormente orgánica han sido utilizados como enmiendas en los campos cañeros.',
+    },
+    {
+      termino: 'Cal',
+      significado:
+        'sustancia alcalina constituida por óxido de calcio, de color blanco o grisáceo, que al contacto del agua se hidrata o se apaga, con desprendimiento de calor, y mezclada con arena forma la argamasa o mortero.',
+    },
+    {
+      termino: 'Clarificación',
+      significado:
+        'consiste en separar los no azúcares, en las tintas de clarificación, donde la temperatura es menor que en las tinas de ebullición y punteo.',
+    },
+    {
+      termino: 'Jugo clarificado',
+      significado:
+        'producto final libre de impurezas con excelentes características de color y sabor.',
+    },
+    {
+      termino: 'Materia prima',
+      significado:
+        'insumo que una industria o fabricación necesita para transformarla en un producto.',
+    },
+    {
+      termino: 'Mucilagos',
+      significado:
+        'sustancias viscosas extraídas de los tallos, hojas, frutos y raíces macerados de alguna especie, que, al entrar en contacto con el agua o el jugo de caña, más la acción del calor, eliminan los sólidos en suspensión, las sustancias coloidales y algunos compuestos colorantes presentes en el jugo, luego se forma la cachaza del jugo limpio por métodos físicos.',
+    },
+    {
+      termino: 'No azúcares',
+      significado:
+        'impurezas propias del jugo como: gomas, ceras, grasas, pigmentos entre otros.',
+    },
+    {
+      termino: 'Prelimpieza',
+      significado:
+        'Consiste en un proceso de lavado y una concentración de jugos más rápidos.',
+    },
+    {
+      termino: 'Sacarosa',
+      significado:
+        'comúnmente conocida como azúcar de mesa, está formada a partir de dos monosacáridos la glucosa y la fructuosa, creando o de esta manera un disacárido. En la naturaleza se encuentra en un 20 % del peso en la caña de azúcar y en un 15 % del peso de la remolacha azucarera. Las plantas son capaces de sintetizar este disacárido por medio del proceso llamado fotosíntesis y es la forma más frecuente para mover azucares desde las hojas a otros órganos vegetales.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Cadavid, G. O. (2007). <em>Buenas Prácticas Agrícolas Manufactura. Buenas Prácticas D E.</em>',
+    },
+    {
+      referencia:
+        'Cadavid, G. O. (2007). Extracción de jugos. <em>Organización de Las Naciones Unidas Para La Agricultura y La Alimentación (FAO), tabla 22, 113.</em>',
+      link: 'https://www.fao.org/3/a1525s/a1525s00.pdf',
+    },
+    {
+      referencia:
+        'Cobeña Morán, J. et al. (2016). <em>Caracterizacion fisico-químicas del jugo de cinco variedades de caña de azucar (Saccharum officinarum) en la hacienda El Jardín. Escuela Superior Piltecnica.</em>',
+      link: 'http://repositorio.espam.edu.ec/bitstream/42000/264/1/TAI105.pdf',
+    },
+    {
+      referencia:
+        'Farfán, K. et al. (2015), Diseño de una línea de producción de panela granulada. <em>Repositorio Institucional PIRHUA, 14, 111.</em>',
+    },
+    {
+      referencia:
+        'Guerrero, M., & Escobar, J. (2015),  Eficiencia técnica de la producción de panela. <em>ResearchGate.</em>',
+      link:
+        'https://www.researchgate.net/publication/304583264_Eficiencia_tecnica_de_la_produccion_de_panela_The_technical_efficiency_of_Non_Centrifugal_Sugar_production',
+    },
+    {
+      referencia: 'León, A. (2008), Hidratos de carbono. <em>Bioquimica.</em>',
+      link: 'www.uhu.es/08007/.../apuntes/2005/pdf/Tema_02_carbohidratos.pdf',
+    },
+    {
+      referencia:
+        'Mendieta, O. el at. (2016), <em>Las buenas prácticas de manufactura en la producción de panela</em>.',
+    },
+    {
+      referencia:
+        '<em>Resolución número 779 de 2006</em> [Ministerio de la Protección Social]. <em>De Trapiches paneleros y centrales de acopio de mieles. 17 de Marzo de 2006.</em>',
+    },
+    {
+      referencia:
+        '<em>Resolución 002546 de 2004</em>. [Ministerio de Protección Social]. Por la cual se establece el reglamento técnico de emergencia a través del cual se señala los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones. Agosto 6 de 2004.',
+    },
+    {
+      referencia:
+        '<em>Ley 09 de 1979</em>. Establece las normas sanitarias para la prevención y control de los agentes biológicos, físicos o químicos que alteran las características del ambiente exterior de las edificaciones hasta hacerlo peligroso para la salud humana. 16 de julio de 1979. D.O No. 35308.',
+    },
+    {
+      referencia:
+        '<em>Resolución 2674 de 2013</em>. [Ministerio de Protección Social] Por la cual se reglamenta el artículo 126 del Decreto Ley 019 de 2012 y se dictan otras disposiciones. 22 de julio de 2013.',
+    },
+    {
+      referencia:
+        'Mosquera, S. A., Carrera, J. E., & Villada, H. S. (2007), <em>Variables que Afectan la Calidad de la Panela. Revista Biotecnologica.</em>',
+      link:
+        'http://revistabiotecnologia.unicauca.edu.co/revista/index.php/biotecnologia/article/view/45',
+    },
+    {
+      referencia:
+        'Quezada, W. (2007), <em>Guía Técnica de Agroindustria Panelera</em>.',
+      link:
+        'http://repositorio.utn.edu.ec/bitstream/123456789/934/1/Guía Técnica de Agroindustria Panelera.pdf',
+    },
+    {
+      referencia:
+        'Regino, J., Torres, N., & Barbosa, S. (2019), <em>Buenas prácticas de manufactura y su contribución al sector panelero</em>.',
+    },
+    {
+      referencia:
+        'Rozo, T. (2013), <em>Manual técnico de buenas prácticas de manufactura (BPM) para el proceso tecnológico de producción de panela. Corhuila</em>.',
+      link:
+        'https://www.onfandina.com/images/Publicaciones/Panela_/Manual Técnico BPM Trapiches.pdf',
+    },
+    {
+      referencia:
+        'Sagarpa. (2015), <em>Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar</em> (Saccharum Officinarum L).',
     },
   ],
   creditos: {

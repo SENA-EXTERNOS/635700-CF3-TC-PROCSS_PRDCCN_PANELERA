@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="435" viewBox="0 0 420 435">
+  <g id="Grupo_173994" data-name="Grupo 173994" transform="translate(-285 -6545)">
+    <rect id="Rectángulo_41234" data-name="Rectángulo 41234" width="420" height="435" rx="19" transform="translate(285 6545)" fill="#fff"/>
+    <g id="Grupo_173923" data-name="Grupo 173923" transform="translate(-6 -545)">
+      <g id="Grupo_149013" data-name="Grupo 149013" transform="translate(-606 -137.481)">
+        <text id="Agua" transform="translate(949.991 7377.906)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Agua</tspan></text>
+        <text id="Azúcares" transform="translate(949.991 7415.5)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Azúcares</tspan></text>
+        <text id="cOMPOnentes" transform="translate(949.991 7330.514)" fill="#e53935" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="15">Componentes</tspan></text>
+        <text id="Sacarosa" transform="translate(949.991 7453.084)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Sacarosa</tspan></text>
+        <g id="Rectángulo_36842" data-name="Rectángulo 36842" transform="translate(932 7316.481)" fill="none" stroke="#e53935" stroke-width="1">
+          <rect width="350" height="53.933" stroke="none"/>
+          <rect x="0.5" y="0.5" width="349" height="52.933" fill="none"/>
+        </g>
+        <g id="Rectángulo_36843" data-name="Rectángulo 36843" transform="translate(932 7370.415)" fill="none" stroke="#e53935" stroke-width="1">
+          <rect width="350" height="41" stroke="none"/>
+          <rect x="0.5" y="0.5" width="349" height="40" fill="none"/>
+        </g>
+        <g id="Rectángulo_36844" data-name="Rectángulo 36844" transform="translate(932 7411.415)" fill="none" stroke="#e53935" stroke-width="1">
+          <rect width="350" height="34.179" stroke="none"/>
+          <rect x="0.5" y="0.5" width="349" height="33.179" fill="none"/>
+        </g>
+        <g id="Rectángulo_36845" data-name="Rectángulo 36845" transform="translate(932 7445.594)" fill="none" stroke="#e53935" stroke-width="1">
+          <rect width="350" height="40.888" stroke="none"/>
+          <rect x="0.5" y="0.5" width="349" height="39.888" fill="none"/>
+        </g>
+        <line id="Línea_223" data-name="Línea 223" y2="169.379" transform="translate(1115.178 7316.481)" fill="none" stroke="#e53935" stroke-width="2"/>
+        <text id="_74_50" data-name="74,50" transform="translate(1144.617 7377.906)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">74,50</tspan></text>
+        <text id="_14_00_" data-name="14,00
+" transform="translate(1144.617 7415.491)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">14,00</tspan><tspan x="0" y="35"></tspan></text>
+        <text id="Porcentaje_" data-name="Porcentaje %" transform="translate(1131.533 7330.514)" fill="#e53935" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="15">Porcentaje %</tspan></text>
+        <text id="_12_50" data-name="12,50" transform="translate(1144.617 7453.084)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">12,50</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

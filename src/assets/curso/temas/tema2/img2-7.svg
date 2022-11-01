@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180.813" viewBox="0 0 420 180.813">
+  <g id="Grupo_173995" data-name="Grupo 173995" transform="translate(-590 -6353.958)">
+    <g id="Grupo_173994" data-name="Grupo 173994">
+      <text id="Agua" transform="translate(605.661 6407.462)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Agua</tspan></text>
+      <text id="Cera_Cruda" data-name="Cera Cruda" transform="translate(605.661 6440.208)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Cera Cruda</tspan></text>
+      <text id="cOMPOnente" transform="translate(605.661 6366.174)" fill="#e53935" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="15">Componente</tspan></text>
+      <text id="Arcillas_y_cenizas" data-name="Arcillas y cenizas" transform="translate(605.661 6472.953)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Arcillas y cenizas</tspan></text>
+      <text id="Bagacillo_y_azúcares" data-name="Bagacillo  y azúcares" transform="translate(605.661 6505.699)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15" xml:space="preserve">Bagacillo  y azúcares</tspan></text>
+      <g id="Grupo_129741" data-name="Grupo 129741" transform="translate(590 6353.958)" opacity="0.55">
+        <g id="Rectángulo_36842" data-name="Rectángulo 36842" transform="translate(0 0)" fill="none" stroke="#e53935" stroke-width="2">
+          <rect width="420" height="49.831" stroke="none"/>
+          <rect x="1" y="1" width="418" height="47.831" fill="none"/>
+        </g>
+        <g id="Rectángulo_36843" data-name="Rectángulo 36843" transform="translate(0 46.983)" fill="none" stroke="#e53935" stroke-width="2">
+          <rect width="420" height="35.593" stroke="none"/>
+          <rect x="1" y="1" width="418" height="33.593" fill="none"/>
+        </g>
+        <g id="Rectángulo_36844" data-name="Rectángulo 36844" transform="translate(0 79.729)" fill="none" stroke="#e53935" stroke-width="2">
+          <rect width="420" height="35.593" stroke="none"/>
+          <rect x="1" y="1" width="418" height="33.593" fill="none"/>
+        </g>
+        <g id="Rectángulo_36845" data-name="Rectángulo 36845" transform="translate(0 112.475)" fill="none" stroke="#e53935" stroke-width="2">
+          <rect width="420" height="35.593" stroke="none"/>
+          <rect x="1" y="1" width="418" height="33.593" fill="none"/>
+        </g>
+        <g id="Rectángulo_36846" data-name="Rectángulo 36846" transform="translate(0 145.22)" fill="none" stroke="#e53935" stroke-width="2">
+          <rect width="420" height="35.593" stroke="none"/>
+          <rect x="1" y="1" width="418" height="33.593" fill="none"/>
+        </g>
+        <line id="Línea_223" data-name="Línea 223" y2="180.162" transform="translate(219.813 0)" fill="none" stroke="#e53935" stroke-width="2"/>
+      </g>
+      <text id="_57" data-name="57" transform="translate(860.508 6407.462)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">57</tspan></text>
+      <text id="_2_-_4" data-name="2 - 4" transform="translate(860.508 6440.208)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">2 - 4</tspan></text>
+      <text id="cantidad_" data-name="cantidad %" transform="translate(860.508 6366.174)" fill="#e53935" font-size="14" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="15">Cantidad %</tspan></text>
+      <text id="_7" data-name="7" transform="translate(860.508 6472.953)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">7</tspan></text>
+      <text id="_15" data-name="15" transform="translate(860.508 6505.699)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">15</tspan></text>
+    </g>
+  </g>
+</svg>

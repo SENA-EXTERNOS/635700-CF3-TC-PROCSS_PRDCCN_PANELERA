@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="575" height="341" viewBox="0 0 575 341">
+  <g id="Grupo_174001" data-name="Grupo 174001" transform="translate(-790 -3178)">
+    <rect id="Rectángulo_33966" data-name="Rectángulo 33966" width="575" height="341" rx="20" transform="translate(790 3178)" fill="#fff"/>
+    <g id="Grupo_171639" data-name="Grupo 171639" transform="translate(20 21.377)">
+      <text id="Requisitos" transform="translate(801 3208.316)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Requisitos</tspan></text>
+      <text id="Azúcares_reductores_expresados_en_glucosa_" data-name="Azúcares reductores, expresados en glucosa %" transform="translate(801 3231.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Azúcares reductores, expresados en glucosa %</tspan></text>
+      <text id="Azúcares_no_reductores_expresados_en_sacarosa_en_" data-name="Azúcares no reductores expresados en sacarosa, en %" transform="translate(801 3255)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Azúcares no reductores expresados en </tspan><tspan x="0" y="35">sacarosa, en %</tspan></text>
+      <text id="Proteínas_en_N_x_6.25_" data-name="Proteínas, en % (N x 6.25)" transform="translate(801 3301.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Proteínas, en % (N x 6.25)</tspan></text>
+      <text id="Cenizas_en_" data-name="Cenizas, en %" transform="translate(801 3325.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Cenizas, en %</tspan></text>
+      <text id="Humedad_en_" data-name="Humedad, en %" transform="translate(801 3346.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Humedad, en %</tspan></text>
+      <text id="Plomo_expresado_con_Pb_en_mg_kg" data-name="Plomo expresado con Pb en mg/kg" transform="translate(801 3370.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Plomo expresado con Pb en mg/kg</tspan></text>
+      <text id="SO2" transform="translate(801 3418.5)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">SO</tspan><tspan y="15" font-size="8.166" baseline-shift="-4.666199819518059">2</tspan></text>
+      <text id="Arsénico_expresado_con_Pb_en_mg_kg" data-name="Arsénico expresado con Pb en mg/kg" transform="translate(801 3393.816)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Arsénico expresado con Pb en mg/kg</tspan></text>
+      <text id="Colorantes" transform="translate(801 3442)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">Colorantes</tspan></text>
+      <text id="Mínimo_" data-name="Mínimo
+" transform="translate(1114.293 3208.316)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Mínimo</tspan></text>
+      <text id="_5.5_" data-name="5.5%" transform="translate(1114.293 3231.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">5.5%</tspan></text>
+      <text id="_-" data-name="-" transform="translate(1114 3265)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="_0.2_" data-name="0.2%" transform="translate(1114.293 3301.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">0.2%</tspan></text>
+      <text id="_0.8_" data-name="0.8%" transform="translate(1114.293 3325.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">0.8%</tspan></text>
+      <text id="_--2" data-name="-" transform="translate(1114.293 3346.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="_--3" data-name="-" transform="translate(1114.293 3370.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="NEGATIVO" transform="translate(1114.293 3418.5)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">NEGATIVO</tspan></text>
+      <text id="_--4" data-name="-" transform="translate(1114.293 3393.816)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="NEGATIVO-2" data-name="NEGATIVO" transform="translate(1114 3442)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">NEGATIVO</tspan></text>
+      <text id="Máximo" transform="translate(1222 3208.316)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Máximo</tspan></text>
+      <text id="_--5" data-name="-" transform="translate(1222 3231.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="_83_" data-name="83%" transform="translate(1222 3265)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">83%</tspan></text>
+      <text id="_--6" data-name="-" transform="translate(1222 3301.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="_--7" data-name="-" transform="translate(1222 3325.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">-</tspan></text>
+      <text id="_9.0_" data-name="9.0%" transform="translate(1222 3346.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">9.0%</tspan></text>
+      <text id="_0.2" data-name="0.2" transform="translate(1222 3370.316)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">0.2</tspan></text>
+      <text id="_0.1" data-name="0.1" transform="translate(1222 3393.816)" fill="#12263f" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="15">0.1</tspan></text>
+      <g id="Rectángulo_36825" data-name="Rectángulo 36825" transform="translate(790 3204.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_36826" data-name="Rectángulo 36826" transform="translate(790 3227.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_36827" data-name="Rectángulo 36827" transform="translate(790 3250.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="46" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="45" fill="none"/>
+      </g>
+      <g id="Rectángulo_36829" data-name="Rectángulo 36829" transform="translate(790 3296.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_36830" data-name="Rectángulo 36830" transform="translate(790 3319.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_36831" data-name="Rectángulo 36831" transform="translate(790 3342.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_36832" data-name="Rectángulo 36832" transform="translate(790 3365.316)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_44629" data-name="Rectángulo 44629" transform="translate(790 3413.5)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_44627" data-name="Rectángulo 44627" transform="translate(790 3388.816)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <g id="Rectángulo_44628" data-name="Rectángulo 44628" transform="translate(790 3437)" fill="none" stroke="#e53935" stroke-width="1">
+        <rect width="525" height="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="524" height="24" fill="none"/>
+      </g>
+      <line id="Línea_217" data-name="Línea 217" y2="207" transform="translate(1098.739 3205.816)" fill="none" stroke="#e53935" stroke-width="2"/>
+      <line id="Línea_218" data-name="Línea 218" y2="207" transform="translate(1204.702 3205.816)" fill="none" stroke="#e53935" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
