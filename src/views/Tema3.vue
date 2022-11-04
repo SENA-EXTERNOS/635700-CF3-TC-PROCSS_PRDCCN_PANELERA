@@ -232,9 +232,9 @@
                 p Otros archivos para tener en cuenta o diligenciar son: listado maestro, vigilancia sanitaria, registro sanitario, inspección, fichas técnicas, programas, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.rectangulosi.p-4
-        .cajon.color-secundadrio.p-4.cuadro-texto.mb-4
-          p
+      .col-lg-10.p-4
+        .cajon.color-secundadrio.p-4
+          p.mb-0
             b ¡Felicitaciones! 
             |Ha finalizado la temática de este componente formativo a través del cual ha aprendido sobre la limpieza del jugo de caña. Ahora le invitamos a estudiar la síntesis, para recordar de forma general los saberes que se han desarrollado y posteriormente contestar la actividad de aprendizaje donde podrá poner a prueba lo aprendido. consultar el material complementario y el glosario servirá como refuerzo y profundización.
  

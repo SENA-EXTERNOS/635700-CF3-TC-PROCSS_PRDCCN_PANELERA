@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Limpieza de jugo de caña',
     descripcionCurso:
       'La producción panelera en Colombia supera el millón y medio de toneladas anuales, lo que lo convierte en uno de los países de mayor producción mundial. La proyección para los próximos años estima sobrepasar la cantidad actual, a través de la optimización de procesos y las tendencias de hábitos de consumo saludables.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -309,7 +309,7 @@ export default {
     },
     {
       referencia:
-        'Mosquera, S. A., Carrera, J. E., & Villada, H. S. (2007), <em>Variables que Afectan la Calidad de la Panela. Revista Biotecnologica.</em>',
+        'Mosquera, S. A., Carrera, J. E., & Villada, H. S. (2007), <em>Variables que Afectan la Calidad de la Panela. Revista Biotecnológica.</em>',
       link:
         'http://revistabiotecnologia.unicauca.edu.co/revista/index.php/biotecnologia/article/view/45',
     },
