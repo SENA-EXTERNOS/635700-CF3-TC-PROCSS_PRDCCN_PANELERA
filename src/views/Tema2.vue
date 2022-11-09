@@ -51,6 +51,7 @@
               em Prelimpieza de la materia prima
             figure
               img(data-aos='fade-left')(src='@/assets/curso/temas/tema2/img2-3.svg', alt='Prelimpieza')
+              figcaption Nota: Adaptado de Cadavid (2017)
               
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0

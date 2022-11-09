@@ -26,7 +26,7 @@
               img(data-aos='fade-left')(src='@/assets/curso/temas/tema1/img1-2.png', alt='FAO')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Colombia se ha preocupado por la seguridad alimentaria de su población, haciendo énfasis en el desarrollo óptimo de la primera infancia, velando por los derechos de los niños y niñas durante el proceso de crecimiento y desarrollo; la nutrición es uno de los aspectos que más se resalta dado a la obtención de nutrientes que se requiere para un adecuado crecimiento. Es así como el país, ha aprovechado su título como el segundo productor de panela a nivel mundial para mantener la producción alimentaria de miles de familias campesinas a través de la formalización laboral y el emprendimiento de los derivados de la panela, es por ello que muchas de estas personas optaron por cultivar la caña de azúcar con el fin de tener la materia prima al momento de la producción, reduciendo costos, brindado oportunidades de empleo e innovando en la transformación del jugo de la caña para producir panela como uno de sus derivados.
+            p Colombia se ha preocupado por la seguridad alimentaria de su población, haciendo énfasis en el desarrollo óptimo de la primera infancia, velando por los derechos de los niños y niñas durante el proceso de crecimiento y desarrollo; la nutrición es uno de los aspectos que más se resalta dado a la obtención de nutrientes que se requiere para un adecuado crecimiento. Es así como el país, ha aprovechado su título como el segundo productor de panela a nivel mundial para mantener la producción alimentaria de miles de familias campesinas a través de la formalización laboral y el emprendimiento de los derivados de la panela, es por ello que muchas de estas personas optaron por cultivar la caña de azúcar con el fin de tener la materia prima al momento de la producción, reduciendo costos, brindando oportunidades de empleo e innovando en la transformación del jugo de la caña para producir panela como uno de sus derivados.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img1-3.png', alt='Paila revolviendo panela')
@@ -133,7 +133,7 @@
       .col-md-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--curuba")
           .row(titulo="La clarificación")
-            p Es el proceso panelero que tiene como fin eliminar todos los sólidos que aparecen en los jugos en suspensión, además de las sustancias coloidales y algunos compuestos colorantes presentes en el zumo, por ello, la limpieza ocurre por acción del calentamiento en las hornillas combinado el ejercicio de aglutinamiento de ciertos compuestos naturales (balso, cadillo, juan blanco y el san Joaquín), se maceran las cortezas de las especies hasta obtener un compuesto con unifique las propiedades de dichas plantas.
+            p Es el proceso panelero que tiene como fin eliminar todos los sólidos que aparecen en los jugos en suspensión, además de las sustancias coloidales y algunos compuestos colorantes presentes en el zumo, por ello, la limpieza ocurre por acción del calentamiento en las hornillas combinado el ejercicio de aglutinamiento de ciertos compuestos naturales (balso, cadillo, juan blanco y el san Joaquín), se maceran las cortezas de las especies hasta obtener un compuesto que unifique las propiedades de dichas plantas.
           
           div(titulo="Uso de los mucílagos")
             p La corteza clarificante se sumerge en el néctar a una temperatura que oscila entre los 60 °C y 70 °C, no requiere adición extra de agua y se debe tener presente el momento de cambiarla, de no hacerlo disminuye la efectividad y el efecto aglutinante o clarificante restando el uso de la misma corteza.
@@ -157,8 +157,19 @@
             h5 Figura 4.
             br
             em Uso de la cal en el proceso de producción de la panela
-          figure
-            img(src='@/assets/curso/temas/tema1/img1-14.svg', alt='Uso de la cal en el proceso de producción de la panela')
+          ImagenInfografica.color-primario.mb-5
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/temas/tema1/img1-14.svg', alt='Uso de la cal en el proceso de producción de la panela')
+                
+            .tarjeta.ctpc.p-3(x="16%" y="55%" numero="")
+              p Habitualmente el PH de los guarapos oscila entre 5.0 y 5.2 pero deber ser subido a un PH de que varíe entre 5.6 y 5.8 para prevenir la formación de azúcares reductores, además de ayudar a la clarificación que hace flotar la materia orgánica.
+
+            .tarjeta.ctpc.p-3(x="50%" y="55%" numero="")
+              p Se debe añadir la cantidad precisa de la cal hasta el grado de ser alimenticio para evitar que contamine la panela, si se excede la cantidad de cal la panela toma colores oscuros alterando la calidad del producto y bajas concentraciones de cal permite el aumento de azúcares reductores permitiendo la contaminación por hongos reduciendo la vida útil.
+
+            .tarjeta.ctpc.p-3(x="85%" y="55%" numero="")
+              p Para determinar la cantidad de cal que se debe añadir al guarapo, se debe determinar  el PH del guarapo por medio del uso de cintas indicadoras de PH, o instrumentos indicadores de PH, de carecer de estos indicadores, se recomienda aplicar pequeñas cantidades hasta lograr el mejor resultado.
 
     Separador
 

@@ -25,14 +25,13 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img3-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4(data-aos='fade-left')
-        p.mb-0 Las buenas prácticas de manufactura, constituyen un acumulo de principios con el objetivo de certificar los productos cuya fabricación se haga en condiciones sanitarias apropiadas y de esta manera minimicen los riesgos que lleva consigo la producción de panela y su distribución. Por eso la implementación de las BPM en la industria panelera deben asegurar la calidad, sanidad e inocuidad, aplicando los procesos de elaboración y manipulación para la obtención de productos óptimos para el consumo. (Regino et al., 2019), (Mendieta et al., 2016).
+        p.mb-0 Las buenas prácticas de manufactura, constituyen un acúmulo de principios con el objetivo de certificar los productos cuya fabricación se haga en condiciones sanitarias apropiadas y de esta manera minimicen los riesgos que lleva consigo la producción de panela y su distribución. Por eso la implementación de las BPM en la industria panelera deben asegurar la calidad, sanidad e inocuidad, aplicando los procesos de elaboración y manipulación para la obtención de productos óptimos para el consumo. (Regino et al., 2019), (Mendieta et al., 2016).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
         figure
           img(data-aos='fade-left')(src='@/assets/curso/temas/tema3/img3-2.svg', alt='Película')
       .col-md-5
-        h4 Material complementario
         p Para profundizar en el estudio de las Buenas Prácticas de Manufactura, te invitamos a observar el siguiente video:
         p
           b “Buenas Prácticas de Manufactura Trapiche panelero”
@@ -233,7 +232,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.p-4
-        .cajon.color-secundadrio.p-4
+        .cajon.color-secundadrio.p-4.mb-5(style="background-color: #FCF0E5")
           p.mb-0
             b ¡Felicitaciones! 
             |Ha finalizado la temática de este componente formativo a través del cual ha aprendido sobre la limpieza del jugo de caña. Ahora le invitamos a estudiar la síntesis, para recordar de forma general los saberes que se han desarrollado y posteriormente contestar la actividad de aprendizaje donde podrá poner a prueba lo aprendido. consultar el material complementario y el glosario servirá como refuerzo y profundización.

@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 En el organizador gráfico que se presenta a continuación, encontrará la descripción general del proceso de limpieza y los requerimientos mínimos para efectuar esta etapa en condiciones óptimas. Las buenas prácticas de manufactura son una magnifica guía para tener presente en cada aspecto del proceso.
+    p.mb-5 En el organizador gráfico que se presenta a continuación, encontrará la descripción general del proceso de limpieza y los requerimientos mínimos para efectuar esta etapa en condiciones óptimas. Las buenas prácticas de manufactura son una magnífica guía para tener presente en cada aspecto del proceso.
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Figura 4.
