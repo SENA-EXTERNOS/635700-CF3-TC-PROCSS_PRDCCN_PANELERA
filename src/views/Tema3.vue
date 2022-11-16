@@ -9,7 +9,7 @@
 
     p.mb-5 El video que se presenta, ilustra de manera general los requerimientos técnicos y normativos. Se recomienda observar con atención y tomar nota de los aspectos que considere relevantes:
 
-    figure
+    figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
@@ -18,20 +18,19 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.1 Buenas Prácticas de Manufactura (BPM)
 
-    p.mb-5 Según el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima), las Buenas Prácticas de Manufactura son los requerimientos generales de higiene en la manipulación, preparación, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano, con el objeto de garantizar la calidad de los mismos en cada una de las operaciones mencionadas, velando que cumplan con las condiciones sanitarias adecuadas, disminuyendo los riesgos inherentes a la producción. El Invima es una de las autoridades sanitarias encargadas de vigilar estas prácticas BPM y emitir conceptos sanitarios frente a las mismas.
+    p.mb-5(data-aos="fade-right") Según el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima), las Buenas Prácticas de Manufactura son los requerimientos generales de higiene en la manipulación, preparación, envasado, almacenamiento, transporte y distribución de alimentos para consumo humano, con el objeto de garantizar la calidad de los mismos en cada una de las operaciones mencionadas, velando que cumplan con las condiciones sanitarias adecuadas, disminuyendo los riesgos inherentes a la producción. El Invima es una de las autoridades sanitarias encargadas de vigilar estas prácticas BPM y emitir conceptos sanitarios frente a las mismas.
 
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(data-aos='fade-right')(
-        :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img3-1.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4(data-aos='fade-left')
-        p.mb-0 Las buenas prácticas de manufactura, constituyen un acúmulo de principios con el objetivo de certificar los productos cuya fabricación se haga en condiciones sanitarias apropiadas y de esta manera minimicen los riesgos que lleva consigo la producción de panela y su distribución. Por eso la implementación de las BPM en la industria panelera deben asegurar la calidad, sanidad e inocuidad, aplicando los procesos de elaboración y manipulación para la obtención de productos óptimos para el consumo. (Regino et al., 2019), (Mendieta et al., 2016).
-
+    .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5.img3-1(data-aos="flip-up")
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p.mb-0 Las buenas prácticas de manufactura, constituyen un acúmulo de principios con el objetivo de certificar los productos cuya fabricación se haga en condiciones sanitarias apropiadas y de esta manera minimicen los riesgos que lleva consigo la producción de panela y su distribución. Por eso la implementación de las BPM en la industria panelera deben asegurar la calidad, sanidad e inocuidad, aplicando los procesos de elaboración y manipulación para la obtención de productos óptimos para el consumo. (Regino et al., 2019), (Mendieta et al., 2016).
+    
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
-        figure
-          img(data-aos='fade-left')(src='@/assets/curso/temas/tema3/img3-2.svg', alt='Película')
-      .col-md-5
+        figure(data-aos='fade-left')
+          img(src='@/assets/curso/temas/tema3/img3-2.svg', alt='Película')
+      .col-lg-5(data-aos="fade-right")
         p Para profundizar en el estudio de las Buenas Prácticas de Manufactura, te invitamos a observar el siguiente video:
         p
           b “Buenas Prácticas de Manufactura Trapiche panelero”
@@ -48,8 +47,8 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.2 Concepto sanitario
 
-    p Hace referencia al criterio emitido por la autoridad sanitaria una vez realizada la inspección, vigilancia y control al establecimiento donde se fabrique, procese, prepare, envase, almacene, transporte, distribuyan, comercialicen, importen o exporten alimentos o materias primas.
-    p.mb-5 El concepto refleja el porcentaje de cumplimiento de la normatividad de la siguiente manera:
+    p(data-aos="fade-left") Hace referencia al criterio emitido por la autoridad sanitaria una vez realizada la inspección, vigilancia y control al establecimiento donde se fabrique, procese, prepare, envase, almacene, transporte, distribuyan, comercialicen, importen o exporten alimentos o materias primas.
+    p.mb-5(data-aos="fade-right") El concepto refleja el porcentaje de cumplimiento de la normatividad de la siguiente manera:
 
     .tarjeta.tarjeta--rosa2.p-4.mb-5
       SlyderA(tipo='b')
@@ -110,19 +109,19 @@
     p.mb-5 Como su nombre lo indica se refiere al cuidado del entorno y los recursos naturales. En este documento de estudio se ha hecho hincapié en este item, para minimizar la producción de desechos generados del proceso panelero y mitigar el impacto negativo al ambiente, adicional a ello, los estatutos procuran soportar la economía de todas las actividades realizadas durante la estandarización en la elaboración de panela. Las resoluciones colombianas expiden una serie de leyes que regulan las actividades para dar la tranquilidad, sin que puedan afectar la salud del consumidor.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3(data-aos='fade-left')
         figure
-          img(data-aos='fade-left')(src='@/assets/curso/temas/tema3/img3-7.svg', alt='Mazo')
-      .col-md-9
+          img(src='@/assets/curso/temas/tema3/img3-7.svg', alt='Mazo')
+      .col-lg-9(data-aos="fade-right")
         p.mb-5 Por las particularidades del proceso productivo, las materias primas e insumos que generalmente son utilizados y los desechos que pueden ser originados; las normas deben ser acatadas en un estricto orden en este ítem se nombran las normativas que rigen para el sector panelero:
         h5.mb-4 Decreto 1076 2015 (mayo 26 de 2015): Sector Ambiente y Desarrollo Sostenible
-        ol
-          li.mb-3
-            i.fas.fa-circle.ct.me-3
-            |Que la producción normativa ocupa un espacio central en la implementación de políticas públicas, siendo el medio a través del cual se estructuran los instrumentos jurídicos que materializan en gran parte las decisiones del Estado.
-          li.mb-3
-            i.fas.fa-circle.ct.me-3
-            |Que la racionalización y simplificación del ordenamiento jurídico es una de las principales herramientas para asegurar la eficiencia económica y social del sistema legal y para afianzar la seguridad jurídica.
+        ul.lista-ul
+        li.mb-3
+          i
+          |Que la producción normativa ocupa un espacio central en la implementación de políticas públicas, siendo el medio a través del cual se estructuran los instrumentos jurídicos que materializan en gran parte las decisiones del Estado.
+        li
+          i
+          |Que la racionalización y simplificación del ordenamiento jurídico es una de las principales herramientas para asegurar la eficiencia económica y social del sistema legal y para afianzar la seguridad jurídica.
 
     Separador
 
@@ -182,14 +181,14 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.5 Procedimientos y reportes
 
-    p.mb-5 En el siguiente apartado, se hace mención a la importancia de contar con documentos que garanticen el cumplimiento de los requisitos en la calidad de la producción panelera.
-    p.mb-5 Con el fin de garantizar el cumplimiento de las BPM en el proceso de producción panelera, y a su vez la inocuidad y calidad, se hace importante contar con documentos que declaren el cumplimiento de requisitos. A continuación, se presentan algunos de ellos, haciendo hincapié en los principales documentos necesarios en la producción (Mendieta et al., 2016).
+    p.mb-4(data-aos="fade-left") En el siguiente apartado, se hace mención a la importancia de contar con documentos que garanticen el cumplimiento de los requisitos en la calidad de la producción panelera.
+    p.mb-5(data-aos="fade-right") Con el fin de garantizar el cumplimiento de las BPM en el proceso de producción panelera, y a su vez la inocuidad y calidad, se hace importante contar con documentos que declaren el cumplimiento de requisitos. A continuación, se presentan algunos de ellos, haciendo hincapié en los principales documentos necesarios en la producción (Mendieta et al., 2016).
 
     .row.mb-5
-      .col-md-4
+      .col-lg-4(data-aos='fade-right')
         figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-14.svg', alt="Reportes")
-      .col-md-8
+          img(src='@/assets/curso/temas/tema3/img3-14.svg', alt="Reportes")
+      .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordeon")
           .row(titulo="La documentación")
             .col-md-2
@@ -231,12 +230,12 @@
                 p Otros archivos para tener en cuenta o diligenciar son: listado maestro, vigilancia sanitaria, registro sanitario, inspección, fichas técnicas, programas, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.p-4
-        .cajon.color-secundadrio.p-4.mb-5(style="background-color: #FCF0E5")
+      .col-lg-10(data-aos="flip-up")
+        .cajon.color-secundario.p-4.mb-4(style="background-color: #FCF0E5")
           p.mb-0
             b ¡Felicitaciones! 
             |Ha finalizado la temática de este componente formativo a través del cual ha aprendido sobre la limpieza del jugo de caña. Ahora le invitamos a estudiar la síntesis, para recordar de forma general los saberes que se han desarrollado y posteriormente contestar la actividad de aprendizaje donde podrá poner a prueba lo aprendido. consultar el material complementario y el glosario servirá como refuerzo y profundización.
- 
+
 </template>
 
 <script>

@@ -7,10 +7,10 @@
         span.ct 2
       h1 Técnicas de limpieza del jugo de la caña
 
-    p.mb-5 El proceso de elaboración de panela ha sido pensado y preparado bajo etapas estandarizadas para lograr resultados de calidad. Por lo tanto, un buen sistema de limpieza se hace a través del uso de clarificadores químicos, permitiendo obtener productos naturales de buena calidad y sabor.
+    p.mb-5(data-aos="fade-right") El proceso de elaboración de panela ha sido pensado y preparado bajo etapas estandarizadas para lograr resultados de calidad. Por lo tanto, un buen sistema de limpieza se hace a través del uso de clarificadores químicos, permitiendo obtener productos naturales de buena calidad y sabor.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido.mb-5
           h5 Figura 5.
           br
@@ -24,8 +24,8 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.1 Técnicas de limpieza
 
-    p Durante esta etapa se retiran impurezas por medios físicos como la decantación y flotación en los prelimpiadores. Se realiza de la siguiente manera: los procesos físicos térmicos en las primeras pailas y bioquímicos con los aglutinantes. Se lleva a cabo por medio de tres operaciones: prelimpieza, clarificación y encalado.
-    p.mb-5 Se presentan las operaciones que se ejecutan para realizar la limpieza del jugo crudo, la clarificación, formación de aglutinantes, cachaza y mieles.
+    p(data-aos="fade-right") Durante esta etapa se retiran impurezas por medios físicos como la decantación y flotación en los prelimpiadores. Se realiza de la siguiente manera: los procesos físicos térmicos en las primeras pailas y bioquímicos con los aglutinantes. Se lleva a cabo por medio de tres operaciones: prelimpieza, clarificación y encalado.
+    p.mb-5(data-aos="fade-left") Se presentan las operaciones que se ejecutan para realizar la limpieza del jugo crudo, la clarificación, formación de aglutinantes, cachaza y mieles.
 
     .tarjeta.tarjeta--rosa.p-4.mb-5
       SlyderA(tipo='b')
@@ -84,7 +84,7 @@
     p Los aglutinantes son una sustancia que, por efecto del calor, reúne los sólidos coloidales y colorantes de los jugos de la caña, y que se consideran impurezas en la elaboración de la panela.
     p.mb-5 A continuación, se presenta las características de los aglutinantes:
 
-    ImagenInfografica.color-primario.mb-5
+    ImagenInfografica.color-primario.mb-5(data-aos="zoom-in")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/tema2/img2-6.svg', alt='Características de aglutinantes')
@@ -109,8 +109,8 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.3 Cachaza y su disposición
 
-    p Se conoce como cachaza al subproducto generado durante la fabricación de panela, específicamente en la etapa de clarificación, en el siguiente espacio se ahondará en este elemento y la correcta forma de utilizarlo.
-    p.mb-5 A continuación, se explica detalladamente el proceso para obtener la cachaza y como hacer una correcta disposición final.
+    p(data-aos="fade-left") Se conoce como cachaza al subproducto generado durante la fabricación de panela, específicamente en la etapa de clarificación, en el siguiente espacio se ahondará en este elemento y la correcta forma de utilizarlo.
+    p.mb-5(data-aos="fade-right") A continuación, se explica detalladamente el proceso para obtener la cachaza y como hacer una correcta disposición final.
 
     TabsC.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Cachaza")

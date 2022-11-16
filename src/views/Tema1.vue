@@ -127,10 +127,10 @@
     p.mb-5 A continuación, se expone el proceso de purificación de los jugos:
 
     .row.mb-5
-      .col-md-4
+      .col-lg-4(data-aos='fade-right')
         figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/tema1/img1-13.png', alt="Jugo de caña")
-      .col-md-8
+          img(src='@/assets/curso/temas/tema1/img1-13.png', alt="Jugo de caña")
+      .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--curuba")
           .row(titulo="La clarificación")
             p Es el proceso panelero que tiene como fin eliminar todos los sólidos que aparecen en los jugos en suspensión, además de las sustancias coloidales y algunos compuestos colorantes presentes en el zumo, por ello, la limpieza ocurre por acción del calentamiento en las hornillas combinado el ejercicio de aglutinamiento de ciertos compuestos naturales (balso, cadillo, juan blanco y el san Joaquín), se maceran las cortezas de las especies hasta obtener un compuesto que unifique las propiedades de dichas plantas.
@@ -144,7 +144,7 @@
             p Se realiza con jugo clarificante frio, allí se deposita la corteza. Se sugiere preparar la solución necesaria para el uso dependiendo del volumen de la ceba, de la concentración, variedad de la caña y de la época del año que se hace la molienda, puesto que no debe almacenarse por tiempo prolongados, porque se pueden fermentar.
             p Cada trapiche debe ajustar la dosis al usar los agentes clarificantes: el balso saca la cachaza negra, el cadillo para eliminar la cachaza blanca o balso y juan blanco. No requiere añadir agua adicional.
 
-      h3
+      h3(data-aos="fade-right")
         i.fas.fa-square.cs.me-3
         |Uso de la cal
 
@@ -152,7 +152,7 @@
       p.mb-5 El organizador gráfico que se presenta a continuación, ilustra el uso de la cal en el proceso de producción de la panela.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8
+        .col-lg-8(data-aos="zoom-in")
           .titulo-sexto.color-acento-contenido.mb-5
             h5 Figura 4.
             br
@@ -177,10 +177,10 @@
       h2 1.3 Operaciones básicas en la obtención de la panela
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7
+      .col-lg-7(data-aos="fade-right").order-lg-first.order-sm-last
         .cajon.tarjeta--curuba.p-4.mb-4.borde-redondo
-          p La panela se ha caracterizado por ser un producto prometedor incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción puede comprometer la eficiencia y la rentabilidad, la medida para disponer de la mejor trazabilidad de la panela enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final, (Guerrero & Escobar, 2015).
-      .col-md-4
+          p.mb-0 La panela se ha caracterizado por ser un producto prometedor incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción puede comprometer la eficiencia y la rentabilidad, la medida para disponer de la mejor trazabilidad de la panela enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final, (Guerrero & Escobar, 2015).
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img1-15.svg', alt='Recolección de caña')
 
@@ -237,20 +237,20 @@
       h2 1.4 Elementos de protección personal
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right").order-lg-first.order-sm-last
         .cajon.tarjeta--curuba.p-4.mb-4.borde-redondo
           p El proceso de producción debe ejecutarse bajo el proceso de extracción de zumo de la caña, allí se evidencia peligros variados para los  trabajadores, es de acotar que en el 80 % de los trapiches se labora de manera informal, el personal es variado, no distingue género ni edad, por lo que se presume que se efectúa desde la informalidad, en su mayoría gente de bajo nivel educativo, por ello, prefieren obviar los elementos de protección, lo que aumenta el riesgo de situaciones peligrosas dejando como consecuencias lesiones, heridas e incluso amputaciones de miembros durante el proceso de fabricación.
-      .col-md-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img1-22.svg', alt='Advertencia')
 
     p.mb-5 La resolución número 2546 de 2004 del Ministerio de Protección Social, establece el reglamento técnico de emergencia a través del cual se señala los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones (Ministerio de Protección Social, 2004), a continuación, se dan a conocer algunos de los requisitos que deben ser considerados:
 
     .row.mb-5
-      .col-md-4
+      .col-lg-4(data-aos='fade-right')
         figure
-          img(data-aos='fade-right')(src='@/assets/curso/temas/tema1/img1-23.svg', alt="EPP")
-      .col-md-8
+          img(src='@/assets/curso/temas/tema1/img1-23.svg', alt="EPP")
+      .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordeon")
           .row(titulo="Sobre la salud ocupacional")
             p a. El establecimiento debe disponer de un botiquín con la dotación adecuada.

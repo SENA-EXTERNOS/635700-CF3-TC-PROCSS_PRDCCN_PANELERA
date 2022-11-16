@@ -10,13 +10,17 @@
     top: 15%
     right: 50%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+
+@media screen and (max-width: 767px)
+  figure
+    img
+      max-width: 350px
 
 //COLORES CORTOS
 .cp
@@ -80,9 +84,12 @@
     color: $white
 
 .acordion__accion__btn--a
-  background-color: #5000C7
+  background-color: #5000C7 !important
   i
     color: $white
+
+.acordion__activo
+  background-color: #F6F6F6 !important
 
 .borde-redondo
   border-radius: 15px
@@ -123,3 +130,12 @@ a.boton
     position: relative
     width: 60%
     background-color: rgba(255, 255, 255, 0.95)
+
+.bloque-texto-a.color-acento-contenido
+  background-color: $color-acento-contenido !important
+
+.img3-1
+  &::before
+    background-image: url('../assets/curso/temas/tema3/img3-1.png')
+    background-size: cover
+    background-position: center center
