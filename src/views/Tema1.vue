@@ -246,7 +246,7 @@
 
     p.mb-5 La resolución número 2546 de 2004 del Ministerio de Protección Social, establece el reglamento técnico de emergencia a través del cual se señala los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones (Ministerio de Protección Social, 2004), a continuación, se dan a conocer algunos de los requisitos que deben ser considerados:
 
-    .row.mb-5
+    .row.justify.content-center.mb-5
       .col-lg-4(data-aos='fade-right')
         figure
           img(src='@/assets/curso/temas/tema1/img1-23.svg', alt="EPP")

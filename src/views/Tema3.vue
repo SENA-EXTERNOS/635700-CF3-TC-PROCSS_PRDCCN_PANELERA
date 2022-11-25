@@ -109,10 +109,10 @@
     p.mb-5 Como su nombre lo indica se refiere al cuidado del entorno y los recursos naturales. En este documento de estudio se ha hecho hincapié en este item, para minimizar la producción de desechos generados del proceso panelero y mitigar el impacto negativo al ambiente, adicional a ello, los estatutos procuran soportar la economía de todas las actividades realizadas durante la estandarización en la elaboración de panela. Las resoluciones colombianas expiden una serie de leyes que regulan las actividades para dar la tranquilidad, sin que puedan afectar la salud del consumidor.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3(data-aos='fade-left')
+      .col-lg-3.col-sm-3(data-aos='fade-left')
         figure
           img(src='@/assets/curso/temas/tema3/img3-7.svg', alt='Mazo')
-      .col-lg-9(data-aos="fade-right")
+      .col-lg-9.col-sm-9(data-aos="fade-right")
         p.mb-5 Por las particularidades del proceso productivo, las materias primas e insumos que generalmente son utilizados y los desechos que pueden ser originados; las normas deben ser acatadas en un estricto orden en este ítem se nombran las normativas que rigen para el sector panelero:
         h5.mb-4 Decreto 1076 2015 (mayo 26 de 2015): Sector Ambiente y Desarrollo Sostenible
         ul.lista-ul
@@ -132,21 +132,21 @@
     p.mb-5 A continuación, se presentan algunas técnicas en la producción panelera:
 
     .row.mb-5
-      .col-xl-4
+      .col-xl-4.col-sm-6
         .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-8.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
                     p La producción de panela se realiza mediante procesos artesanales donde prevalece el trabajo familiar, determinadas condiciones según la región y una baja implementación de la tecnología y las buenas prácticas de manufactura.
-      .col-xl-4
+      .col-xl-4.col-sm-6
         .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-9.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
                     p La caña de azúcar puede variar la concentración de azúcares por los valores nutritivos que aportan las zonas donde son cultivadas, además, los porcentajes de vitaminas, minerales y moléculas dependerán del tipo de suelo enriquecido.
-      .col-xl-4
+      .col-xl-4.col-sm-6
         .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
@@ -154,21 +154,21 @@
                   .tarjeta-flip__contenido.p-4.p-xl-5
                     p La cantidad de cachaza es alterada por las características de la caña.
     .row.mb-5
-      .col-xl-4
+      .col-xl-4.col-sm-6
         .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-11.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
                     p Cada trapiche usa diferentes mucílagos al tener variedad de plantasen las regiones, algunos con mejores propiedades y esas particularidades brindan las características en el proceso de clarificación.
-      .col-xl-4
+      .col-xl-4.col-sm-6
         .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
                   .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-12.svg')})`}")
                   .tarjeta-flip__contenido.p-4.p-xl-5
                     p Los valores de PH no presentan el mismo rango y el uso de sustancias como la cal, tiene la propiedad de regular el valor del jugo de la caña, esto depende de la experticia y habilidad de los trabajadores.
-      .col-xl-4
+      .col-xl-4.col-sm-6
         .tarjeta.tarjeta-flip.color-acento-botones(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
@@ -184,49 +184,49 @@
     p.mb-4(data-aos="fade-left") En el siguiente apartado, se hace mención a la importancia de contar con documentos que garanticen el cumplimiento de los requisitos en la calidad de la producción panelera.
     p.mb-5(data-aos="fade-right") Con el fin de garantizar el cumplimiento de las BPM en el proceso de producción panelera, y a su vez la inocuidad y calidad, se hace importante contar con documentos que declaren el cumplimiento de requisitos. A continuación, se presentan algunos de ellos, haciendo hincapié en los principales documentos necesarios en la producción (Mendieta et al., 2016).
 
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-4(data-aos='fade-right')
         figure
           img(src='@/assets/curso/temas/tema3/img3-14.svg', alt="Reportes")
       .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--acordeon")
           .row(titulo="La documentación")
-            .col-md-2
+            .col-md-2.col-sm-2
               figure
                 img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-15.svg', alt="Documentos")
-            .col-md-10
+            .col-md-10.col-sm-10
               p Si la información no se documenta, no existe la certeza que se cumplan los requerimientos y se puede interpretar improvisación en los procedimientos, aspecto que pueden llegar a la pérdida de control, no obstante, se debe tener presente que los papeles son útiles cuando son sencillos y bien elaborados, además, se debe conocer los objetivos y de este modo sintetizar el trabajo.
           
           div(titulo="La trazabilidad interna")
             .row
-              .col-md-2
+              .col-md-2.col-sm-2
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-16.svg', alt="Trazabilidad")
-              .col-md-10
+              .col-md-10.col-sm-10
                 p Adicionalmente, uno de los aspectos que demanda el mercado internacional de la panela, y que debe ser abordado por la unidad productiva, es la trazabilidad interna, asociada a las características (físicas, químicas y organolépticas) y a la manipulación del producto, las operaciones del proceso (equipos y condiciones de operación) y los demás factores de fabricación.
 
           div(titulo="Los procedimientos")
             .row
-              .col-md-2
+              .col-md-2.col-sm-2
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-17.svg', alt="Procedimientos")
-              .col-md-10
+              .col-md-10.col-sm-10
                 p Los procedimientos son un método o modo de ejecutar las actividades. Sobresalen los siguientes: trámite de control de producción, control de plagas, retiro de productos, validación del programa de saneamiento, inspección de proveedores y retiro de productos no conformes.
 
           div(titulo="Los instructivos")
             .row
-              .col-md-2
+              .col-md-2.col-sm-2
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-18.svg', alt="Instructivo")
-              .col-md-10
+              .col-md-10.col-sm-10
                 p Los instructivos de trabajo son documentos que contienen directrices escritas para una actividad específica, como: la limpieza, desinfección, disposición final de desechos.
 
           div(titulo="Otros requerimientos")
             .row
-              .col-md-2
+              .col-md-2.col-sm-2
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-19.svg', alt="Hojas")
-              .col-md-10
+              .col-md-10.col-sm-10
                 p Otros archivos para tener en cuenta o diligenciar son: listado maestro, vigilancia sanitaria, registro sanitario, inspección, fichas técnicas, programas, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5
