@@ -127,7 +127,7 @@
     p.mb-5 A continuación, se expone el proceso de purificación de los jugos:
 
     .row.mb-5
-      .col-lg-4(data-aos='fade-right')
+      .col-lg-4.mb-sm-4(data-aos='fade-right')
         figure
           img(src='@/assets/curso/temas/tema1/img1-13.png', alt="Jugo de caña")
       .col-lg-8(data-aos="fade-left")
@@ -152,22 +152,19 @@
       p.mb-5 El organizador gráfico que se presenta a continuación, ilustra el uso de la cal en el proceso de producción de la panela.
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-8(data-aos="zoom-in")
+        .col-lg-8.col-sm-9(data-aos="zoom-in")
           .titulo-sexto.color-acento-contenido.mb-5
             h5 Figura 4.
             br
             em Uso de la cal en el proceso de producción de la panela
-          ImagenInfografica.color-primario.mb-5
+          ImagenInfografica.color-primario
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema1/img1-14.svg', alt='Uso de la cal en el proceso de producción de la panela')
-                
             .tarjeta.ctpc.p-3(x="16%" y="55%" numero="")
               p Habitualmente el PH de los guarapos oscila entre 5.0 y 5.2 pero deber ser subido a un PH de que varíe entre 5.6 y 5.8 para prevenir la formación de azúcares reductores, además de ayudar a la clarificación que hace flotar la materia orgánica.
-
             .tarjeta.ctpc.p-3(x="50%" y="55%" numero="")
               p Se debe añadir la cantidad precisa de la cal hasta el grado de ser alimenticio para evitar que contamine la panela, si se excede la cantidad de cal la panela toma colores oscuros alterando la calidad del producto y bajas concentraciones de cal permite el aumento de azúcares reductores permitiendo la contaminación por hongos reduciendo la vida útil.
-
             .tarjeta.ctpc.p-3(x="85%" y="55%" numero="")
               p Para determinar la cantidad de cal que se debe añadir al guarapo, se debe determinar  el PH del guarapo por medio del uso de cintas indicadoras de PH, o instrumentos indicadores de PH, de carecer de estos indicadores, se recomienda aplicar pequeñas cantidades hasta lograr el mejor resultado.
 
@@ -180,7 +177,7 @@
       .col-lg-7(data-aos="fade-right").order-lg-first.order-sm-last
         .cajon.tarjeta--curuba.p-4.mb-4.borde-redondo
           p.mb-0 La panela se ha caracterizado por ser un producto prometedor incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción puede comprometer la eficiencia y la rentabilidad, la medida para disponer de la mejor trazabilidad de la panela enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final, (Guerrero & Escobar, 2015).
-      .col-lg-4(data-aos="fade-left")
+      .col-lg-4.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img1-15.svg', alt='Recolección de caña')
 
@@ -240,14 +237,14 @@
       .col-lg-8(data-aos="fade-right").order-lg-first.order-sm-last
         .cajon.tarjeta--curuba.p-4.mb-4.borde-redondo
           p El proceso de producción debe ejecutarse bajo el proceso de extracción de zumo de la caña, allí se evidencia peligros variados para los  trabajadores, es de acotar que en el 80 % de los trapiches se labora de manera informal, el personal es variado, no distingue género ni edad, por lo que se presume que se efectúa desde la informalidad, en su mayoría gente de bajo nivel educativo, por ello, prefieren obviar los elementos de protección, lo que aumenta el riesgo de situaciones peligrosas dejando como consecuencias lesiones, heridas e incluso amputaciones de miembros durante el proceso de fabricación.
-      .col-lg-4(data-aos="fade-left")
+      .col-lg-4.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img1-22.svg', alt='Advertencia')
 
     p.mb-5 La resolución número 2546 de 2004 del Ministerio de Protección Social, establece el reglamento técnico de emergencia a través del cual se señala los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones (Ministerio de Protección Social, 2004), a continuación, se dan a conocer algunos de los requisitos que deben ser considerados:
 
     .row.justify.content-center.mb-5
-      .col-lg-4(data-aos='fade-right')
+      .col-lg-4.mb-sm-4(data-aos='fade-right')
         figure
           img(src='@/assets/curso/temas/tema1/img1-23.svg', alt="EPP")
       .col-lg-8(data-aos="fade-left")

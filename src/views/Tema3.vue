@@ -7,7 +7,7 @@
         span.ct 3
       h1 Requerimientos técnicos y normativos
 
-    p.mb-5 El video que se presenta, ilustra de manera general los requerimientos técnicos y normativos. Se recomienda observar con atención y tomar nota de los aspectos que considere relevantes:
+    p.mb-5(data-aos="fade-right") El video que se presenta, ilustra de manera general los requerimientos técnicos y normativos. Se recomienda observar con atención y tomar nota de los aspectos que considere relevantes:
 
     figure(data-aos="zoom-in")
       .video
@@ -27,7 +27,7 @@
             p.mb-0 Las buenas prácticas de manufactura, constituyen un acúmulo de principios con el objetivo de certificar los productos cuya fabricación se haga en condiciones sanitarias apropiadas y de esta manera minimicen los riesgos que lleva consigo la producción de panela y su distribución. Por eso la implementación de las BPM en la industria panelera deben asegurar la calidad, sanidad e inocuidad, aplicando los procesos de elaboración y manipulación para la obtención de productos óptimos para el consumo. (Regino et al., 2019), (Mendieta et al., 2016).
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.mb-sm-4
         figure(data-aos='fade-left')
           img(src='@/assets/curso/temas/tema3/img3-2.svg', alt='Película')
       .col-lg-5(data-aos="fade-right")
@@ -185,7 +185,7 @@
     p.mb-5(data-aos="fade-right") Con el fin de garantizar el cumplimiento de las BPM en el proceso de producción panelera, y a su vez la inocuidad y calidad, se hace importante contar con documentos que declaren el cumplimiento de requisitos. A continuación, se presentan algunos de ellos, haciendo hincapié en los principales documentos necesarios en la producción (Mendieta et al., 2016).
 
     .row.justify-content-center.mb-5
-      .col-lg-4(data-aos='fade-right')
+      .col-lg-4.mb-sm-4(data-aos='fade-right')
         figure
           img(src='@/assets/curso/temas/tema3/img3-14.svg', alt="Reportes")
       .col-lg-8(data-aos="fade-left")

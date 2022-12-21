@@ -10,7 +10,7 @@
     p.mb-5(data-aos="fade-right") El proceso de elaboración de panela ha sido pensado y preparado bajo etapas estandarizadas para lograr resultados de calidad. Por lo tanto, un buen sistema de limpieza se hace a través del uso de clarificadores químicos, permitiendo obtener productos naturales de buena calidad y sabor.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10(data-aos="zoom-in")
+      .col-lg-10.col-sm-10(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido.mb-5
           h5 Figura 5.
           br
@@ -84,25 +84,22 @@
     p Los aglutinantes son una sustancia que, por efecto del calor, reúne los sólidos coloidales y colorantes de los jugos de la caña, y que se consideran impurezas en la elaboración de la panela.
     p.mb-5 A continuación, se presenta las características de los aglutinantes:
 
-    ImagenInfografica.color-primario.mb-5(data-aos="zoom-in")
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/temas/tema2/img2-6.svg', alt='Características de aglutinantes')
-          
-      .tarjeta.pc1.p-3(x="11%" y="100%" numero="")
-        p La producción de aglutinantes en la finca evita el uso de especies que crecen en los bosques relictos.
-
-      .tarjeta.pc1.p-3(x="30%" y="100%" numero="")
-        p Fomenta la reducción de costos de producción y mejora la inocuidad y calidad de la panela, en la medida en que se evita la utilización de productos químicos en el proceso de clarificación de los jugos.
-
-      .tarjeta.pc1.p-3(x="50%" y="100%" numero="")
-        p Favorece la sostenibilidad ambiental de las zonas, dado que disminuye la presión sobre especies aglutinantes.
-
-      .tarjeta.pc1.p-3(x="70%" y="100%" numero="")
-        p Desde el punto de vista social, contribuye a que los productores tengan una oportunidad de negocio, a través de la siembra y comercialización de estas especies en las zonas paneleras.
-
-      .tarjeta.pc1.p-3(x="90%" y="100%" numero="")
-        p Los aglutinantes dependen de algunas variables físico-químicas entre ellas la temperatura, entre 50 °C y 55 °C acelera la formación de partículas de gran tamaño, aumentando la cinética de las mismas lo cual facilita la separación del jugo de caña.
+    .row.justify-content-center.mb-5
+      .col-lg-12.col-sm-8(data-aos="zoom-in")
+        ImagenInfografica.color-primario
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema2/img2-6.svg', alt='Características de aglutinantes')
+          .tarjeta.pc1.p-3(x="11%" y="100%" numero="")
+            p La producción de aglutinantes en la finca evita el uso de especies que crecen en los bosques relictos.
+          .tarjeta.pc1.p-3(x="30%" y="100%" numero="")
+            p Fomenta la reducción de costos de producción y mejora la inocuidad y calidad de la panela, en la medida en que se evita la utilización de productos químicos en el proceso de clarificación de los jugos.
+          .tarjeta.pc1.p-3(x="50%" y="100%" numero="")
+            p Favorece la sostenibilidad ambiental de las zonas, dado que disminuye la presión sobre especies aglutinantes.
+          .tarjeta.pc1.p-3(x="70%" y="100%" numero="")
+            p Desde el punto de vista social, contribuye a que los productores tengan una oportunidad de negocio, a través de la siembra y comercialización de estas especies en las zonas paneleras.
+          .tarjeta.pc1.p-3(x="90%" y="100%" numero="")
+            p Los aglutinantes dependen de algunas variables físico-químicas entre ellas la temperatura, entre 50 °C y 55 °C acelera la formación de partículas de gran tamaño, aumentando la cinética de las mismas lo cual facilita la separación del jugo de caña.
 
     Separador
 
