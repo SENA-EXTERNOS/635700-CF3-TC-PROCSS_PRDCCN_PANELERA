@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="672" height="516" viewBox="0 0 672 516">
-  <g id="Grupo_173990" data-name="Grupo 173990" transform="translate(-705 -2547)">
-    <rect id="Rectángulo_33784" data-name="Rectángulo 33784" width="672" height="516" rx="20" transform="translate(705 2547)" fill="#fff"/>
-    <g id="Grupo_171565" data-name="Grupo 171565" transform="translate(248 1921)">
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="545" viewBox="0 0 672 545">
+  <g id="Grupo_224042" data-name="Grupo 224042" transform="translate(-705 -2518)">
+    <rect id="Rectángulo_33784" data-name="Rectángulo 33784" width="672" height="545" rx="20" transform="translate(705 2518)" fill="#fff"/>
+    <g id="Grupo_171565" data-name="Grupo 171565" transform="translate(248 1909)">
       <g id="Rectángulo_40446" data-name="Rectángulo 40446" transform="translate(674.582 941.215)">
         <path id="Trazado_202130" data-name="Trazado 202130" d="M-4395.592-5982.72h168.014a9.345,9.345,0,0,1,9.6,9.06v28.687a9.344,9.344,0,0,1-9.6,9.059h-168.014a9.343,9.343,0,0,1-9.6-9.059v-28.687A9.344,9.344,0,0,1-4395.592-5982.72Z" transform="translate(4405.196 5982.72)" fill="#fff" stroke="#707070" stroke-width="5"/>
         <path id="Trazado_202131" data-name="Trazado 202131" d="M-4395.479-5982.22h167.757c5.092,0,9.22,3.873,9.22,8.648v28.48c0,4.777-4.127,8.648-9.22,8.648h-167.757c-5.093,0-9.221-3.872-9.221-8.648v-28.48C-4404.7-5978.347-4400.571-5982.22-4395.479-5982.22Z" transform="translate(4405.211 5982.734)" fill="#fff" stroke="#dc1f27" stroke-width="5"/>
@@ -55,18 +55,18 @@
       <text id="Tierra" transform="translate(623 915)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-18.727" y="0">Tierra</tspan></text>
       <text id="El_color_de_la_panela" data-name="El color de la panela" transform="translate(760 693)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-63.085" y="0">El color de la panela</tspan></text>
       <g id="Grupo_171566" data-name="Grupo 171566" transform="translate(855.807 1066.997)">
-        <g id="Rectángulo_44588" data-name="Rectángulo 44588" transform="translate(0.193 0.003)" fill="#fff" stroke="#81af1d" stroke-width="2">
-          <rect width="113" height="41" rx="10" stroke="none"/>
-          <rect x="1" y="1" width="111" height="39" rx="9" fill="none"/>
+        <g id="Rectángulo_44588" data-name="Rectángulo 44588" transform="translate(-11.807 0.003)" fill="#fff" stroke="#81af1d" stroke-width="2">
+          <rect width="125" height="41" rx="10" stroke="none"/>
+          <rect x="1" y="1" width="123" height="39" rx="9" fill="none"/>
         </g>
         <g id="Rectángulo_44589" data-name="Rectángulo 44589" transform="translate(140.193 0.003)" fill="#fff" stroke="#81af1d" stroke-width="2">
           <rect width="112" height="41" rx="10" stroke="none"/>
           <rect x="1" y="1" width="110" height="39" rx="9" fill="none"/>
         </g>
-        <text id="Clarificación" transform="translate(54.193 26.002)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-39.645" y="0">Clarificación</tspan></text>
-        <text id="Limpieza" transform="translate(194.193 26.002)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-28.602" y="0">Limpieza</tspan></text>
+        <text id="No_fermentación" data-name="No fermentación" transform="translate(51.193 25.002)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-52.756" y="0">No fermentación</tspan></text>
+        <text id="No_se_vinagra" data-name="No se vinagra" transform="translate(194.193 26.002)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-43.036" y="0">No se vinagra</tspan></text>
       </g>
-      <text id="Microorganismos" transform="translate(548 1093)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-55.279" y="0">Microorganismos</tspan></text>
+      <text id="Bagazo" transform="translate(548 1093)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-23.434" y="0">Bagazo</tspan></text>
       <line id="Línea_224" data-name="Línea 224" y2="29" transform="translate(763 709)" fill="none" stroke="#5d5d5d" stroke-width="2"/>
       <path id="Trazado_258781" data-name="Trazado 258781" d="M0,0V28.083" transform="translate(763.513 781.141)" fill="none" stroke="#5d5d5d" stroke-width="2"/>
       <line id="Línea_244" data-name="Línea 244" y2="28" transform="translate(763 834)" fill="none" stroke="#5d5d5d" stroke-width="2"/>
@@ -95,6 +95,10 @@
       <path id="Trazado_258780" data-name="Trazado 258780" d="M9.728,5.617,4.985,2.879,0,0V11.233Z" transform="translate(757.895 836.739) rotate(-90)" fill="#5d5d5d"/>
       <path id="Trazado_258785" data-name="Trazado 258785" d="M9.728,5.617,4.985,2.879,0,0V11.233Z" transform="translate(757.895 913.5) rotate(-90)" fill="#5d5d5d"/>
       <line id="Línea_247" data-name="Línea 247" y1="29.019" x2="28.551" transform="translate(665.689 884.581)" fill="none" stroke="#5d5d5d" stroke-width="2"/>
+    </g>
+    <g id="Rectángulo_293965" data-name="Rectángulo 293965" transform="translate(705 2519)" fill="none" stroke="#e53935" stroke-width="4">
+      <rect width="672" height="544" rx="20" stroke="none"/>
+      <rect x="2" y="2" width="668" height="540" rx="18" fill="none"/>
     </g>
   </g>
 </svg>
