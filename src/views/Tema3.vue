@@ -149,7 +149,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-11.svg')})`}")
             .tarjeta-flip__contenido.px-4.px-xl-5
-              p Cada trapiche usa diferentes mucílagos al tener variedad de plantasen las regiones, algunos con mejores propiedades y esas particularidades brindan las características en el proceso de clarificación.
+              p Cada trapiche usa diferentes mucílagos al tener variedad de plantas en las regiones, algunos con mejores propiedades y esas particularidades brindan las características en el proceso de clarificación.
 
         .tarjeta.tarjeta-flip.bgGreen(@mouseover="indicadorTarjetaFlip2 = false").my-3
           .indicador--hover(v-if="indicadorTarjetaFlip2")

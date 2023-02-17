@@ -87,7 +87,7 @@
             h6.mb-2.text-center.mt-4 Composición química promedio de la caña de azúcar
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/tema1/img1-10.svg', alt='Composición química de la caña de azúcar')
-              figcaption.mt-2.br Nota: Adaptado de Composición química promedio de la caña de azúcar, (2015).
+              figcaption.mt-2.br <i>Nota: Adaptado de Composición química promedio de la caña de azúcar, (2015).</i>
           .col-md-6
             p.mt-4 La caña está constituida principalmente por agua, fibra y sólidos solubles (especialmente azúcares), adicional a ello, otros compuestos en cantidades menores como minerales, proteínas, ceras, grasas y ácidos que pueden estar en forma libre o combinada.
 
@@ -172,23 +172,23 @@
           .bgVainilla.px-5.py-4
             .d-flex.align-items-center.justify-content-start.mb-3
               img(src='@/assets/curso/temas/tema1/icon_li.svg', alt='Icono').icon_li
-              p.mx-3.my-0 Cañas de lotes recién desmontados
+              p.mx-3.my-0 Cañas de lotes recién desmontados.
 
             .d-flex.align-items-center.justify-content-start.mb-3
               img(src='@/assets/curso/temas/tema1/icon_li.svg', alt='Icono').icon_li
-              p.mx-3.my-0 Lotes ricos en materia orgánica
+              p.mx-3.my-0 Lotes ricos en materia orgánica.
 
             .d-flex.align-items-center.justify-content-start.mb-3
               img(src='@/assets/curso/temas/tema1/icon_li.svg', alt='Icono').icon_li
-              p.mx-3.my-0 Cañas inmaduras
+              p.mx-3.my-0 Cañas inmaduras.
 
             .d-flex.align-items-center.justify-content-start.mb-3
               img(src='@/assets/curso/temas/tema1/icon_li.svg', alt='Icono').icon_li
-              p.mx-3.my-0 Sobremaduras
+              p.mx-3.my-0 Sobremaduras.
 
             .d-flex.align-items-center.justify-content-start.mb-3
               img(src='@/assets/curso/temas/tema1/icon_li.svg', alt='Icono').icon_li
-              p.mx-3.my-0 Florecidas
+              p.mx-3.my-0 Florecidas.
 
             .d-flex.align-items-center.justify-content-start
               img(src='@/assets/curso/temas/tema1/icon_li.svg', alt='Icono').icon_li
@@ -208,7 +208,7 @@
           .row.justify-content-start.align-items-center
             .col-lg-9.col-12
 
-              p.mb-0 La panela se ha caracterizado por ser un producto prometedor incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción puede comprometer la eficiencia y la rentabilidad, la medida para disponer de la mejor trazabilidad de la panela enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final, (Guerrero & Escobar, 2015).
+              p.mb-0 La panela se ha caracterizado por ser un producto prometedor, incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción, puede comprometer la eficiencia y la rentabilidad; la medida para disponer de la mejor trazabilidad de la panela, enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final. (Guerrero & Escobar, 2015)
 
 
 
