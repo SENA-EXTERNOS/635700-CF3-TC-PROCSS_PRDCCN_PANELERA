@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Limpieza de jugo de caña
-        p.mb-4 Apreciado aprendiz, en este ítem encontrará algunos enunciados relacionados con la experiencia de aprendizaje del presente componente. Complete la frase de acuerdo a lo aprendido. #[br]¡Adelante!
+        p.mb-4 Apreciado aprendiz, en este ítem encontrará algunos enunciados relacionados con la experiencia de aprendizaje del presente componente. Lo invitamos a relacionar cada uno de los conceptos con el enunciado que le corresponde. #[br]¡Adelante!
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
