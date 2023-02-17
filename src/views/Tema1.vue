@@ -84,7 +84,7 @@
 
         .row(titulo="Paso 5").justify-content-evenly
           .col-md-4.col-sm-12.mb-4.mb-md-0
-            h6.mb-2.text-center.mt-4 Composición química promedio de la caña de azúcar
+            h6.mb-2.text-center.mt-4 #[i Composición química promedio de la caña de azúcar]
             figure
               img(data-aos='fade-right')(src='@/assets/curso/temas/tema1/img1-10.svg', alt='Composición química de la caña de azúcar')
               figcaption.mt-2.br <i>Nota: Adaptado de Composición química promedio de la caña de azúcar, (2015).</i>
