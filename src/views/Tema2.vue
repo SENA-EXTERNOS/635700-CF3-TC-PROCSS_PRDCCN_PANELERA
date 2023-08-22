@@ -103,7 +103,7 @@
             table.table
               caption Composición de la cachaza
               thead
-                tr
+                tr.text-center.bg1
                   th Componente
                   th Cantidad
               tbody
@@ -160,17 +160,4 @@ export default {
 }
 </script>
 
-<style lang="sass">
-
-
-thead
-  color: $color-primario
-
-th, td
-  border: 2px solid $color-primario
-  font-weight: 700
-
-th
-  text-align: center
-  font-size: $h4-font-size
-</style>
+<style lang="sass"></style>

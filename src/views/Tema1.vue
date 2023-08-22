@@ -133,7 +133,7 @@
             p Se realiza con jugo clarificante frio, allí se deposita la corteza. Se sugiere preparar la solución necesaria para el uso dependiendo del volumen de la ceba, de la concentración, variedad de la caña y de la época del año que se hace la molienda, puesto que no debe almacenarse por tiempo prolongados, porque se pueden fermentar.
             p Cada trapiche debe ajustar la dosis al usar los agentes clarificantes: el balso saca la cachaza negra, el cadillo para eliminar la cachaza blanca o balso y juan blanco. No requiere añadir agua adicional.
 
-      h3(data-aos="fade-right")
+      h3
         i.fas.fa-square.cs.me-3
         |Uso de la cal
 

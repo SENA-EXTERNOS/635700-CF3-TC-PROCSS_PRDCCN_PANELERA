@@ -184,7 +184,6 @@
               figure
                 img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-15.svg', alt="Documentos")
             .col-md-10.col-sm-10
-              h4 La documentación
               p Si la información no se documenta, no existe la certeza que se cumplan los requerimientos y se puede presentar improvisación en los procedimientos, aspecto que pueden llegar a la pérdida de control; no obstante, se debe tener presente que los papeles son útiles cuando son sencillos y bien elaborados y, además, se deben conocer los objetivos y de este modo, sintetizar el trabajo.
 
           div(titulo="La trazabilidad interna")
@@ -193,7 +192,6 @@
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-16.svg', alt="Trazabilidad")
               .col-md-10.col-sm-10
-                h4 La trazabilidad interna
                 p Adicionalmente, uno de los aspectos que demanda el mercado internacional de la panela, y que debe ser abordado por la unidad productiva, es la trazabilidad interna, asociada con las características (físicas, químicas y organolépticas) y a la manipulación del producto, las operaciones del proceso (equipos y condiciones de operación) y los demás factores de fabricación.
 
           div(titulo="Los procedimientos")
@@ -202,7 +200,6 @@
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-17.svg', alt="Procedimientos")
               .col-md-10.col-sm-10
-                h4 Los procedimientos
                 p Los procedimientos son un método o modo de ejecutar las actividades. Sobresalen los siguientes: trámite de control de producción, control de plagas, retiro de productos, validación del programa de saneamiento, inspección de proveedores y retiro de productos no conformes.
 
           div(titulo="Los instructivos")
@@ -211,7 +208,6 @@
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-18.svg', alt="Instructivo")
               .col-md-10.col-sm-10
-                h4  Los instructivos
                 p Los instructivos de trabajo son documentos que contienen directrices escritas para una actividad específica, como: la limpieza, desinfección, disposición final de desechos.
 
           div(titulo="Otros requerimientos")
@@ -220,7 +216,6 @@
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-19.svg', alt="Hojas")
               .col-md-10.col-sm-10
-                h4 Otros requerimientos
                 p Otros archivos para tener en cuenta o diligenciar son: listado maestro, vigilancia sanitaria, registro sanitario, inspección, fichas técnicas, programas, entre otros.
 
     .row.justify-content-center.align-items-center.mb-5

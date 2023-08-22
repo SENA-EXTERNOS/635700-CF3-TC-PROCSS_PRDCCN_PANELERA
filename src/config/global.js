@@ -240,10 +240,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Cadavid, G. O. (2007). <em>Buenas Prácticas Agrícolas Manufactura. Buenas Prácticas D E</em>.',
-    },
-    {
-      referencia:
         'Cadavid, G. O. (2007). Buenas Prácticas Agrícolas -BPA-  y Buenas Prácticas de Manufactura -BPM- en la producción de caña y panela. Organización de Las Naciones Unidas Para La Agricultura y La Alimentación (FAO)',
       link: 'https://www.fao.org/3/a1525s/a1525s00.pdf',
     },
