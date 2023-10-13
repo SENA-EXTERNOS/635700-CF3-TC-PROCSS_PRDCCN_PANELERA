@@ -51,13 +51,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Operaciones básicas para la obtención de la panela',
+            titulo: 'Operaciones básicas en la obtención de la panela',
             hash: 't_1_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Elementos de protección',
+            titulo: 'Elementos de protección personal',
             hash: 't_1_4',
           },
         ],
@@ -67,7 +67,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Técnicas de limpieza del jugo de caña',
+        titulo: 'Técnicas de limpieza del jugo de la caña',
         desarrolloContenidos: true,
       },
       {
@@ -187,19 +187,19 @@ export default {
         'se refiere a la acción de agitación intensiva e intermitente de la panela líquida, con el propósito de cambiarle la estructura y textura, además de hacerle perder su capacidad de adherencia.',
     },
     {
-      termino: 'Buenas prácticas de manufactura',
+      termino: 'Buenas Prácticas de Manufactura',
       significado:
         'son las normas establecidas de manera oficial que regulan a las plantas procesadoras de alimentos, en cuanto a los procedimientos de fabricación, limpieza y desinfección, la higiene personal, la manipulación, los controles, registros, almacenamiento, que garantizan calidad y seguridad alimentaria.',
     },
     {
       termino: 'Cachaza',
       significado:
-        'es un residuo de la industria azucarera que se forma a partir de los lodos formados por las impurezas, ceras, hidrocarburos y azucares que aporta la caña. <br>El abono orgánico es un compuesto producido con materiales de origen animal o vegetal, el cual tiene como finalidad suministrar nutrientes a las plantas. Es así, que la cachaza, residuo de la agroindustria azucarera, por su composición mayormente orgánica han sido utilizados como enmiendas en los campos cañeros.',
+        'es un residuo de la industria azucarera que se forma a partir de los lodos formados por las impurezas, ceras, hidrocarburos y azúcares que aporta la caña. <br>El abono orgánico es un compuesto producido con materiales de origen animal o vegetal, el cual tiene como finalidad suministrar nutrientes a las plantas. Es así, que la cachaza, residuo de la agroindustria azucarera, por su composición mayormente orgánica han sido utilizados como enmiendas en los campos cañeros.',
     },
     {
       termino: 'Cal',
       significado:
-        'sustancia alcalina constituida por óxido de calcio, de color blanco o grisáceo, que al contacto del agua se hidrata o se apaga, con desprendimiento de calor, y mezclada con arena forma la argamasa o mortero.',
+        'sustancia alcalina constituida por óxido de calcio, de color blanco o grisáceo, que al contacto con el agua se hidrata o se apaga, con desprendimiento de calor, y mezclada con arena forma la argamasa o mortero.',
     },
     {
       termino: 'Clarificación',
@@ -217,14 +217,14 @@ export default {
         'insumo que una industria o fabricación necesita para transformarla en un producto.',
     },
     {
-      termino: 'Mucilagos',
+      termino: 'Mucílago',
       significado:
         'sustancias viscosas extraídas de los tallos, hojas, frutos y raíces macerados de alguna especie, que, al entrar en contacto con el agua o el jugo de caña, más la acción del calor, eliminan los sólidos en suspensión, las sustancias coloidales y algunos compuestos colorantes presentes en el jugo, luego se forma la cachaza del jugo limpio por métodos físicos.',
     },
     {
       termino: 'No azúcares',
       significado:
-        'impurezas propias del jugo como: gomas, ceras, grasas, pigmentos entre otros.',
+        'impurezas propias del jugo como: gomas, ceras, grasas, pigmentos, entre otros.',
     },
     {
       termino: 'Prelimpieza',
@@ -234,7 +234,7 @@ export default {
     {
       termino: 'Sacarosa',
       significado:
-        'comúnmente conocida como azúcar de mesa, está formada a partir de dos monosacáridos la glucosa y la fructuosa, creando o de esta manera un disacárido. En la naturaleza se encuentra en un 20 % del peso en la caña de azúcar y en un 15 % del peso de la remolacha azucarera. Las plantas son capaces de sintetizar este disacárido por medio del proceso llamado fotosíntesis y es la forma más frecuente para mover azucares desde las hojas a otros órganos vegetales.',
+        'comúnmente conocida como azúcar de mesa, está formada a partir de dos monosacáridos, la glucosa y la fructuosa, creando o de esta manera un disacárido. En la naturaleza se encuentra en un 20 % del peso en la caña de azúcar y en un 15 % del peso de la remolacha azucarera. Las plantas son capaces de sintetizar este disacárido por medio del proceso llamado fotosíntesis y es la forma más frecuente para mover azúcares desde las hojas a otros órganos vegetales.',
     },
   ],
   referencias: [
@@ -251,6 +251,8 @@ export default {
     {
       referencia:
         'Farfán, K. et al. (2015). Diseño de una línea de producción de panela granulada. <em>Repositorio Institucional PIRHUA, 14</em>, 111.',
+      link:
+        'https://pirhua.udep.edu.pe/bitstream/handle/11042/2344/4._PYT__Informe_Final__Panela.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
@@ -261,22 +263,31 @@ export default {
     {
       referencia:
         'Mendieta, O. et al. (2016), <em>Las buenas prácticas de manufactura en la producción de panela</em>.',
+      link: 'https://repository.agrosavia.co/handle/20.500.12324/34303',
     },
     {
       referencia:
         'Resolución número 779 de 2006 [Ministerio de la Protección Social]. De Trapiches paneleros y centrales de acopio de mieles. 17 de Marzo de 2006.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resolucion-779-de-2006.pdf',
     },
     {
       referencia:
         'Resolución 002546 de 2004. [Ministerio de Protección Social]. Por la cual se establece el reglamento técnico de emergencia a través del cual se señala los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones. Agosto 6 de 2004.',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/RESOLUCI%C3%93N%202546%20DE%202004.pdf',
     },
     {
       referencia:
         'Ley 09 de 1979. Establece las normas sanitarias para la prevención y control de los agentes biológicos, físicos o químicos que alteran las características del ambiente exterior de las edificaciones hasta hacerlo peligroso para la salud humana. 16 de julio de 1979. D.O No. 35308.',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/LEY%200009%20DE%201979.pdf',
     },
     {
       referencia:
         'Resolución 2674 de 2013. [Ministerio de Protección Social] Por la cual se reglamenta el artículo 126 del Decreto Ley 019 de 2012 y se dictan otras disposiciones. 22 de julio de 2013.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-2674-de-2013.pdf',
     },
     {
       referencia:
@@ -287,6 +298,8 @@ export default {
     {
       referencia:
         'Sagarpa. (2015). <em>Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar  (Saccharum Officinarum L )</em>. ',
+      link:
+        'https://www.dof.gob.mx/nota_detalle.php?codigo=5393379&fecha=22/05/2015#gsc.tab=0',
     },
   ],
   creditos: {

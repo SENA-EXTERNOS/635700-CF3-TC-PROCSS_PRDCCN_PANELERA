@@ -32,7 +32,7 @@
               img(src='@/assets/curso/temas/tema1/img1-3b.png', alt='Paila revolviendo panela')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p No se puede obviar la importancia de la producción panelera en los renglones de la economía colombiana, esta actividad ha permanecido a lo largo del tiempo, el conocimiento se ha trasmitido de forma empírica a muchas generaciones, convirtiendo el proceso en la principal estrategia productiva y de generación de ingresos para miles de personas dedicadas a la agroindustria, los cuales trabajan en su mayoría en pequeñas fábricas paneleras conocidas como trapiches, donde los procesos de estandarización  no cumplen los requisitos óptimos. Es por ello que cada región donde se realice la fabricación panelera, debe cumplir parámetros para poder efectuarla, según el contexto que indique el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA), haciendo el proceso de registro, acatando las normas y cumpliendo con las buenas prácticas de manufactura.
+            p No se puede obviar la importancia de la producción panelera en los renglones de la economía colombiana, esta actividad ha permanecido a lo largo del tiempo, el conocimiento se ha trasmitido de forma empírica a muchas generaciones, convirtiendo el proceso en la principal estrategia productiva y de generación de ingresos para miles de personas dedicadas a la agroindustria, los cuales trabajan en su mayoría en pequeñas fábricas paneleras conocidas como trapiches, donde los procesos de estandarización  no cumplen los requisitos óptimos. Es por ello que cada región donde se realice la fabricación panelera, debe cumplir parámetros para poder efectuarla, según el contexto que indique el Instituto Nacional de Vigilancia de Medicamentos y Alimentos (Invima), haciendo el proceso de registro, acatando las normas y cumpliendo con las buenas prácticas de manufactura.
           .col-md-6.col-sm-12
             figure
               img(src='@/assets/curso/temas/tema1/img1-4b.png', alt='Panelas redondas')
@@ -46,7 +46,7 @@
     Separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.1 Jugos de caña y su clasificación
+      h2 1.1 Jugos de la caña y su clasificación
 
     p.mb-5 La elaboración de panela en un proceso fisicoquímico en el cual se cuenta con la ayuda de equipos mecánicos industrializados y tratamientos químicos para extraer el jugo de la caña y lograr la transformación del producto terminado.
 
@@ -104,14 +104,14 @@
               img(data-aos='fade-right')(src='@/assets/curso/temas/tema1/img1-12.svg', alt='Composición del guarapo')
               figcaption.mt-2.br Nota: Adaptado de Cobeña Morán & Loor Chávez, (2016).
           .col-md-6
-            p.mt-4 Según la FAO (2013), con respecto a los requisitos físico químicos para el “jugo de caña de azúcar” sólido o en bloque, de acuerdo con los comentarios remitidos y la revisión de los estudios realizados, se incluyó un nivel mínimo del 75 % para azúcares totales, así como también un nivel máximo del 10 % para edulcorantes reductores, dado que, para favorecer la granulometría y reducir los cambios reológicos, es necesario contar con la inversión de la sacarosa. (Cobeña Morán & Loor Chávez, 2016)
+            p.mt-4 Según la FAO (2013), con respecto a los requisitos físicoquímicos para el “jugo de caña de azúcar” sólido o en bloque, de acuerdo con los comentarios remitidos y la revisión de los estudios realizados, se incluyó un nivel mínimo del 75 % para azúcares totales, así como también un nivel máximo del 10 % para edulcorantes reductores, dado que, para favorecer la granulometría y reducir los cambios reológicos, es necesario contar con la inversión de la sacarosa. (Cobeña Morán & Loor Chávez, 2016)
 
     Separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.2 Purificación de jugos
 
-    p.mb-4 Los jugos de la caña de azúcar de buena calidad, tienen un porcentaje aproximado de 16,5 % de sacarosa, de 18 a 22 oBrix, 79 % a 89 % de pureza, menos del 2 % de azúcares reductores, 0,3 % de cenizas, 0,12 % de gomas y pectina, 0,03 % de albúmina, 0,05 % de ácidos libres y menos del 4 % de bagazo y, adicional, la entrada al molino debe oscilar en un espacio que no supere las 24 horas después del corte.
+    p.mb-4 Los jugos de la caña de azúcar de buena calidad, tienen un porcentaje aproximado de 16,5 % de sacarosa, de 18 a 22 ° Brix, 79 % a 89 % de pureza, menos del 2 % de azúcares reductores, 0,3 % de cenizas, 0,12 % de gomas y pectina, 0,03 % de albúmina, 0,05 % de ácidos libres y menos del 4 % de bagazo y, adicional, la entrada al molino debe oscilar en un espacio que no supere las 24 horas después del corte.
 
     p.mb-5 A continuación, se expone el proceso de purificación de los jugos:
 
@@ -130,7 +130,7 @@
             p La solución clarificante dispuesta debe ser usada en un periodo menor a 4 horas después de la preparación, debido a que puede fermentarse, reduciendo el componente aglutinante.
 
           div(titulo="Preparación de la solución clarificante")
-            p Se realiza con jugo clarificante frio, allí se deposita la corteza. Se sugiere preparar la solución necesaria para el uso dependiendo del volumen de la ceba, de la concentración, variedad de la caña y de la época del año que se hace la molienda, puesto que no debe almacenarse por tiempo prolongados, porque se pueden fermentar.
+            p Se realiza con jugo clarificante frío, allí se deposita la corteza. Se sugiere preparar la solución necesaria para el uso dependiendo del volumen de la ceba, de la concentración, variedad de la caña y de la época del año que se hace la molienda, puesto que no debe almacenarse por tiempo prolongado, porque se pueden fermentar.
             p Cada trapiche debe ajustar la dosis al usar los agentes clarificantes: el balso saca la cachaza negra, el cadillo para eliminar la cachaza blanca o balso y juan blanco. No requiere añadir agua adicional.
 
       h3
@@ -148,22 +148,22 @@
             img(src='@/assets/curso/temas/tema1/icon_1-4.svg', alt='Uso de la cal en el proceso de producción de la panela', id='iconHeaderInfo').d-none.d-md-inline
             h3.text-white.m-0.ml-3 Uso de la cal en el proceso de producción panelera
 
-          p.text-center.my-4 Para añadir la cal a los jugos deben estar a una temperatura de 60°C, se usa para regular el PH de los jugos.
+          p.text-center.my-4 Para añadir la cal a los jugos deben estar a una temperatura de 60°C, se usa para regular el pH de los jugos.
 
 
           .bgGray.p-3.my-4
-            h3.text-center.m-0 Regulación del PH
+            h3.text-center.m-0 Regulación del pH
 
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema1/info_1-4.svg', alt='Uso de la cal en el proceso de producción de la panela')
             .tarjeta.img-infografica__tooltip.p-3(x="16%" y="102%" numero="+")
-              p Habitualmente el PH de los guarapos oscila entre 5.0 y 5.2 pero deber ser subido a un PH de que varíe entre 5.6 y 5.8 para prevenir la formación de azúcares reductores, además de ayudar a la clarificación que hace flotar la materia orgánica.
+              p Habitualmente el pH de los guarapos oscila entre 5.0 y 5.2 pero deber ser subido a un pH de que varíe entre 5.6 y 5.8 para prevenir la formación de azúcares reductores, además de ayudar a la clarificación que hace flotar la materia orgánica.
             .tarjeta.img-infografica__tooltip.p-3(x="50%" y="102%" numero="+")
               p Se debe añadir la cantidad precisa de la cal hasta el grado de ser alimenticio para evitar que contamine la panela, si se excede la cantidad de cal la panela toma colores oscuros alterando la calidad del producto y bajas concentraciones de cal permite el aumento de azúcares reductores permitiendo la contaminación por hongos reduciendo la vida útil.
             .tarjeta.img-infografica__tooltip.p-3(x="85%" y="102%" numero="+")
-              p Para determinar la cantidad de cal que se debe añadir al guarapo, se debe determinar  el PH del guarapo por medio del uso de cintas indicadoras de PH, o instrumentos indicadores de PH, de carecer de estos indicadores, se recomienda aplicar pequeñas cantidades hasta lograr el mejor resultado.
+              p Para determinar la cantidad de cal que se debe añadir al guarapo, se debe determinar  el pH del guarapo por medio del uso de cintas indicadoras de pH, o instrumentos indicadores de pH, de carecer de estos indicadores, se recomienda aplicar pequeñas cantidades hasta lograr el mejor resultado.
 
 
           .bgGray.p-3.mt-4.mb-3
@@ -290,7 +290,7 @@
             p c. Las áreas de riesgo deben estar claramente identificadas y demarcadas.
 
           div(titulo="Sobre el personal capacitado")
-            p Deben contar con conocimientos referentes a la normatividad sanitaria y el cumplimiento de las buenas prácticas de manufactura dentro de las instalaciones, priorizando el área de moldeo y almacenamiento, entre otros. Se incluyó formación básica sobre los programas que son exigidos por el INVIMA, como: control de plagas, capacitación, limpieza y desinfección. (Rozo, 2013)
+            p Deben contar con conocimientos referentes a la normatividad sanitaria y el cumplimiento de las buenas prácticas de manufactura dentro de las instalaciones, priorizando el área de moldeo y almacenamiento, entre otros. Se incluyó formación básica sobre los programas que son exigidos por el Invima, como: control de plagas, capacitación, limpieza y desinfección. (Rozo, 2013)
 
           div(titulo="Sobre el uso de elementos de protección personal")
             ol

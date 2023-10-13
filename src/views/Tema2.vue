@@ -46,7 +46,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Al macerar las cortezas de algunos árboles y arbustos tales como cadillos, balso y guásimo, se obtiene un mucilago que contiene polímeros celulósicos con propiedades aglutinantes. Los sólidos en suspensión se agregan entre sí y forman una masa homogénea que se conoce como cachaza la cual flota sobre el zumo y permite extraerla manualmente. Otras especies utilizadas para formar el aglutinante son juan blando y san joaquín.
+            p Al macerar las cortezas de algunos árboles y arbustos tales como cadillos, balso y guásimo, se obtiene un mucílago que contiene polímeros celulósicos con propiedades aglutinantes. Los sólidos en suspensión se agregan entre sí y forman una masa homogénea que se conoce como cachaza la cual flota sobre el zumo y permite extraerla manualmente. Otras especies utilizadas para formar el aglutinante son juan blando y san joaquín.
             p La mayor parte de las cortezas referentes a las especies utilizadas como aglutinantes se encuentran en las zonas boscosas próximas a los trapiches paneleros, algunas ocasiones son traídas de municipios cercanos.
           .col-md-5
             figure
@@ -54,7 +54,7 @@
 
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Durante la clarificación se eleva la temperatura de los jugos en los sistemas de hornillas. En el primer recipiente esta debe oscilar entre los 75 °C y 82 °C, con el propósito de iniciar la segunda etapa de limpieza del jugo y dejarlo en óptimas condiciones, se prosigue a estabilizar el PH. En este punto el zumo empieza se calienta y en ese momento se añade el aglutinante de preferencia para eliminar los residuos sólidos que son difíciles de retirar. Gracias a las propiedades de la corteza de balso, el guásimo o el cadillo, los sólidos empiezan a acumularse en la superficie, generando un residuo llamado cachaza el cual es cocinado hasta formar una masa espesa conocida como melote, la cual es utilizada para alimentar los animales de las fincas, sin embargo, la cachaza puede ser eliminada en cuerpos de aguas cercanos, aunque causa afectaciones a las fuentes hídricas. (Quezada y Cadavid, 2007)
+            p Durante la clarificación se eleva la temperatura de los jugos en los sistemas de hornillas. En el primer recipiente esta debe oscilar entre los 75 °C y 82 °C, con el propósito de iniciar la segunda etapa de limpieza del jugo y dejarlo en óptimas condiciones, se prosigue a estabilizar el pH. En este punto el zumo se calienta y en ese momento se añade el aglutinante de preferencia para eliminar los residuos sólidos que son difíciles de retirar. Gracias a las propiedades de la corteza de balso, el guásimo o el cadillo, los sólidos empiezan a acumularse en la superficie, generando un residuo llamado cachaza el cual es cocinado hasta formar una masa espesa conocida como melote, la cual es utilizada para alimentar los animales de las fincas, sin embargo, la cachaza puede ser eliminada en cuerpos de aguas cercanos, aunque causa afectaciones a las fuentes hídricas. (Quezada y Cadavid, 2007)
           .col-md-5
             figure
               img(data-aos='fade-left')(src='@/assets/curso/temas/tema2/img2-5.svg', alt='Cachaza')
@@ -82,7 +82,7 @@
           .tarjeta.bgVerdeFluorescente.p-3(x="70%" y="3%" numero="4")
             p Desde el punto de vista social, contribuye a que los productores tengan una oportunidad de negocio, a través de la siembra y comercialización de estas especies en las zonas paneleras.
           .tarjeta.bgVerdeFluorescente.p-3(x="90%" y="96%" numero="5")
-            p Los aglutinantes dependen de algunas variables físico-químicas, entre ellas la temperatura, entre 50 oC y 55 oC acelera la formación de partículas de gran tamaño, aumentando la cinética de las mismas, lo cual facilita la separación del jugo de caña.
+            p Los aglutinantes dependen de algunas variables físicoquímicas, entre ellas la temperatura, entre 50 °C y 55 °C acelera la formación de partículas de gran tamaño, aumentando la cinética de las mismas, lo cual facilita la separación del jugo de caña.
 
     Separador
 
@@ -90,7 +90,7 @@
       h2 Cachaza y su disposición
 
     p(data-aos="fade-left") Se conoce como cachaza al subproducto generado durante la fabricación de panela, específicamente en la etapa de clarificación, en el siguiente espacio se ahondará en este elemento y la correcta forma de utilizarlo.
-    p(data-aos="fade-right") A continuación, se explica detalladamente el proceso para obtener la cachaza y como hacer una correcta disposición final.
+    p(data-aos="fade-right") A continuación, se explica detalladamente el proceso para obtener la cachaza y cómo hacer una correcta disposición final.
 
     TabsC.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Cachaza")
@@ -129,7 +129,7 @@
             figure
               img(data-aos='fade-left')(src='@/assets/curso/temas/tema2/img2-8.png', alt='Disposición cachaza')
           .col-md-6
-            p Existen varias formas de eliminar la cachaza, por lo general se vierte a las corrientes de agua cercanas al trapiche, otra opción es hacer una quema del material sobrante, este método no es recomendado dado las afectaciones a la calidad del aire y el suelo al ocasionar contaminación directa, también está la disposición en zonas de desecho afectando la capa vegetal a causa del estado de fermentación.  Por lo que se recomienda emplearlo como abono, mejorando algunas propiedades físicas y acidas del suelo.
+            p Existen varias formas de eliminar la cachaza, por lo general se vierte a las corrientes de agua cercanas al trapiche, otra opción es hacer una quema del material sobrante, este método no es recomendado dado las afectaciones a la calidad del aire y el suelo al ocasionar contaminación directa, también está la disposición en zonas de desecho afectando la capa vegetal a causa del estado de fermentación.  Por lo que se recomienda emplearlo como abono, mejorando algunas propiedades físicas y ácidas del suelo.
 
       .py-4.py-md-5(titulo="Innovación")
         .row.justify-content-center.align-items-center

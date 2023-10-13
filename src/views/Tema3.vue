@@ -59,7 +59,7 @@
             p La Ley 40 de 1990 reconoce la producción de panela como una actividad agrícola desarrollada en explotaciones que, mediante la utilización de trapiches, tengan como fin principal la siembra de caña con el propósito de hacer panela y mieles vírgenes para el consumo humano y señala en el parágrafo del artículo 4º, que le corresponde a este Ministerio establecer los mecanismos de control que deben ser aplicados por las alcaldías municipales, en coordinación con las secretarías o servicios de salud departamentales (Recomendación estudiar la resolución 779 de 2006).
           .col-md-5
             figure
-              img(data-aos='fade-left')(src='@/assets/curso/temas/tema3/img3-3.svg', alt='Requisitos BPM producción panelera')
+              img(data-aos='fade-left')(src='@/assets/curso/temas/tema3/img3-3-.svg', alt='Requisitos BPM producción panelera')
 
 
         .row.justify-content-around.align-items-start.my-3
@@ -76,7 +76,7 @@
             h4 Decreto 3075 de 1997
 
             p Las buenas prácticas de manufactura son los métodos necesarios para obtener alimentos inocuos, saludables y sanos, se estipulan por el decreto 3075 de 1997 que establece los requerimientos para la fabricación de alimentos.
-            p La creciente demanda para obtener alimentos derivados de la industria panelera y el deseo de brindar productos de menor calidad, ha creado la obligación de seguir las buenas prácticas de la manufactura, puesto que la seguridad de los alimentos se ha convertido en una prioridad para los consumidores. Lo anterior obliga a las empresas a mejorar los esquemas de protección de alimentos y por ello el decreto 3075 de 1997, brinda las estrategias exactas para mejor la calidad de los mismos.
+            p La creciente demanda para obtener alimentos derivados de la industria panelera y el deseo de brindar productos de menor calidad, ha creado la obligación de seguir las buenas prácticas de la manufactura, puesto que la seguridad de los alimentos se ha convertido en una prioridad para los consumidores. Lo anterior obliga a las empresas a mejorar los esquemas de protección de alimentos y por ello el decreto 3075 de 1997, brinda las estrategias exactas para mejorar la calidad de los mismos.
             p Todas las personas que realizan actividades de manipulación de panela, deben tener capacitación en prácticas higiénicas de manipulación de alimentos de acuerdo a lo establecido en el Título II Capítulo III, Decreto 3075 de 1997; (Ministerio de Salud, 1992).
           .col-auto
             figure
@@ -85,7 +85,7 @@
         .row.justify-content-around.align-items-center
           .col-md-7.mb-4.mb-md-0
             h4 Resolución 2674 de 2013
-            p La resolución 2674 de 2013 establece los requisitos y condiciones bajo las cuales el Instituto Nacional de Medicamentos y Alimentos INVIMA como autoridad sanitaria del orden nacional, deberá expedir los registros, permisos o notificaciones sanitarias (Ministerio de salud y protección social, 2013).
+            p La resolución 2674 de 2013 establece los requisitos y condiciones bajo las cuales el Instituto Nacional de Medicamentos y Alimentos Invima como autoridad sanitaria del orden nacional, deberá expedir los registros, permisos o notificaciones sanitarias (Ministerio de salud y protección social, 2013).
           .col-auto
             figure
               img(data-aos='fade-left')(src='@/assets/curso/temas/tema3/img3-6.svg', alt='Mazo')
@@ -95,14 +95,14 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.3 Normativa ambiental
 
-    p.mb-5 Como su nombre lo indica se refiere al cuidado del entorno y los recursos naturales. En este documento de estudio se ha hecho hincapié en este item, para minimizar la producción de desechos generados del proceso panelero y mitigar el impacto negativo al ambiente, adicional a ello, los estatutos procuran soportar la economía de todas las actividades realizadas durante la estandarización en la elaboración de panela. Las resoluciones colombianas expiden una serie de leyes que regulan las actividades para dar la tranquilidad, sin que puedan afectar la salud del consumidor.
+    p.mb-5 Como su nombre lo indica se refiere al cuidado del entorno y los recursos naturales. En este documento de estudio se ha hecho hincapié en este ítem, para minimizar la producción de desechos generados del proceso panelero y mitigar el impacto negativo al ambiente, adicional a ello, los estatutos procuran soportar la economía de todas las actividades realizadas durante la estandarización en la elaboración de panela. Las resoluciones colombianas expiden una serie de leyes que regulan las actividades para dar la tranquilidad, sin que puedan afectar la salud del consumidor.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-sm-3(data-aos='fade-left')
         figure
           img(src='@/assets/curso/temas/tema3/img3-7.svg', alt='Mazo')
       .col-lg-9.col-sm-9(data-aos="fade-right")
-        p.mb-5 Por las particularidades del proceso productivo, las materias primas e insumos que generalmente son utilizados y los desechos que pueden ser originados; las normas deben ser acatadas en un estricto orden en este ítem se nombran las normativas que rigen para el sector panelero:
+        p.mb-5 Por las particularidades del proceso productivo, las materias primas e insumos que generalmente son utilizados y los desechos que pueden ser originados, las normas deben ser acatadas en un estricto orden. En este ítem se nombran las normativas que rigen para el sector panelero:
         h5.mb-4 Decreto 1076 2015 (mayo 26 de 2015): Sector Ambiente y Desarrollo Sostenible
         ul.lista-ul
         li.mb-3
@@ -117,7 +117,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 3.4 Ajuste de técnicas
 
-    p.mb-5 Las técnicas de producción panelera deben ser ajustadas a las condiciones de cada trapiche, dado a que los requerimientos van a depender de características de cada región.
+    p.mb-5 Las técnicas de producción panelera deben ser ajustadas a las condiciones de cada trapiche, dado que los requerimientos van a depender de características de cada región.
     p.mb-5 A continuación, se presentan algunas técnicas en la producción panelera:
 
     .d-flex.flex-wrap.justify-content-center.justify-content-md-around
@@ -127,7 +127,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/icon_1.svg')})`}")
             .tarjeta-flip__contenido.px-4.px-xl-5
-              p.text-white La producción de panela se realiza mediante procesos artesanales donde prevalece el trabajo familiar, determinadas condiciones según la región y una baja implementación de la tecnología y las buenas prácticas de manufactura.
+              p.text-white La producción de panela se realiza mediante procesos artesanales donde prevalece el trabajo familiar, determinadas condiciones según la región y una baja implementación de la tecnología y las Buenas Prácticas de Manufactura.
 
         .tarjeta.tarjeta-flip.bgGreen(@mouseover="indicadorTarjetaFlip2 = false").my-3
           .indicador--hover(v-if="indicadorTarjetaFlip2")
@@ -156,14 +156,14 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-12.svg')})`}")
             .tarjeta-flip__contenido.px-4.px-xl-5
-              p Los valores de PH no presentan el mismo rango y el uso de sustancias como la cal, tiene la propiedad de regular el valor del jugo de la caña, esto depende de la experticia y habilidad de los trabajadores.
+              p Los valores de pH no presentan el mismo rango y el uso de sustancias como la cal, tiene la propiedad de regular el valor del jugo de la caña, esto depende de la experticia y habilidad de los trabajadores.
 
         .tarjeta.tarjeta-flip.bgGreen(@mouseover="indicadorTarjetaFlip2 = false").my-3
           .indicador--hover(v-if="indicadorTarjetaFlip2")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img3-13.svg')})`}")
             .tarjeta-flip__contenido.px-4.px-xl-5
-              p Gracias a las buenas prácticas de manufactura puede estandarizarse cada etapa del proceso dependiendo de cada región o de las características de la materia prima, evitando posibles ajustes durante el proceso de producción panelera.
+              p Gracias a las Buenas Prácticas de Manufactura puede estandarizarse cada etapa del proceso dependiendo de cada región o de las características de la materia prima, evitando posibles ajustes durante el proceso de producción panelera.
 
     Separador
 
