@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Limpieza de jugo de caña',
+    componenteFormativo: 'Limpieza del jugo de caña',
     descripcionCurso:
       'La producción panelera en Colombia supera el millón y medio de toneladas anuales, lo que lo convierte en uno de los países de mayor producción mundial. La proyección para los próximos años estima sobrepasar la cantidad actual, a través de la optimización de procesos y las tendencias de hábitos de consumo saludables.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
