@@ -184,7 +184,7 @@
               figure
                 img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-15.svg', alt="Documentos")
             .col-md-10.col-sm-10
-              p Si la información no se documenta, no existe la certeza que se cumplan los requerimientos y se puede presentar improvisación en los procedimientos, aspecto que pueden llegar a la pérdida de control; no obstante, se debe tener presente que los papeles son útiles cuando son sencillos y bien elaborados y, además, se deben conocer los objetivos y de este modo, sintetizar el trabajo.
+              p Si la información no se documenta, no existe la certeza que se cumplan los requerimientos y se puede presentar improvisación en los procedimientos, aspectos que pueden llegar a la pérdida de control; no obstante, se debe tener presente que los papeles son útiles cuando son sencillos y bien elaborados y, además, se deben conocer los objetivos y de este modo, sintetizar el trabajo.
 
           div(titulo="La trazabilidad interna")
             .row
